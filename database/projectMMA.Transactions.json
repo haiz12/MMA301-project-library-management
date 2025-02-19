@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "67b61441882b328823933ae7"
+  },
+  "userId": {
+    "$oid": "65d3a1f1e6f1b77a8c100001"
+  },
+  "type": "Fine Payment",
+  "amount": 50000,
+  "date": {
+    "$date": "2024-02-15T10:30:00.000Z"
+  },
+  "details": "Late return of 'Clean Code'."
+}]

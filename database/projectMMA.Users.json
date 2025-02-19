@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "67a2e42d5bf76d3b5f668d97"
+  },
+  "name": "Le Thi Tam",
+  "email": "TamLT@library.com",
+  "studentId": null,
+  "role": "admin",
+  "phone": "0912345678",
+  "borrowedBooks": null
+},
+{
+  "_id": {
+    "$oid": "67a2e42d5bf76d3b5f668d98"
+  },
+  "name": "Pham Minh Thai",
+  "email": "ThaiPM@library.com",
+  "studentId": "GV001",
+  "role": "teacher",
+  "phone": "0976543210",
+  "borrowedBooks": []
+},
+{
+  "_id": {
+    "$oid": "67a2e42d5bf76d3b5f668d99"
+  },
+  "name": "Nguyen Thi Tam",
+  "email": "TamNT@lybrary.com",
+  "studentId": "TT001",
+  "role": "librarian",
+  "phone": "0936123456",
+  "borrowedBooks": []
+},
+{
+  "_id": {
+    "$oid": "67a2e42d5bf76d3b5f668d9a"
+  },
+  "name": "Tran Thi Hien",
+  "email": "HienTT@library.com",
+  "studentId": "SV001",
+  "role": "student",
+  "phone": "0911222334",
+  "borrowedBooks": [
+    {
+      "bookId": {
+        "$oid": "67a2eeec5bf76d3b5f668db9"
+      },
+      "borrowDate": {
+        "$date": "2024-02-10T15:00:00.000Z"
+      },
+      "dueDate": {
+        "$date": "2024-03-10T15:00:00.000Z"
+      },
+      "returned": false
+    }
+  ]
+}]

@@ -1,0 +1,3780 @@
+[{
+  "_id": {
+    "$oid": "67a2eeec5bf76d3b5f668db9"
+  },
+  "title": "To Kill a Mockingbird",
+  "description": "Một câu chuyện về sự phân biệt chủng tộc và công lý ở miền Nam nước Mỹ trong thế kỷ 20.",
+  "author": "Harper Lee",
+  "isbn": "9780061120084",
+  "category": {
+    "$oid": "67a2e18de1bbae53cef6f9af"
+  },
+  "country": "USA",
+  "publicationYear": 1960,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf A1",
+  "imageUrl": "https://m.media-amazon.com/images/I/81gepf1eMqL._AC_UF894,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "67a2eeec5bf76d3b5f668dba"
+  },
+  "title": "Pride and Prejudice",
+  "description": "Tiểu thuyết lãng mạn xoay quanh mối quan hệ giữa Elizabeth Bennet và Mr. Darcy.",
+  "author": "Jane Austen",
+  "isbn": "9780141439518",
+  "category": {
+    "$oid": "67a2e18de1bbae53cef6f9af"
+  },
+  "country": "England",
+  "publicationYear": 1813,
+  "copies": 5,
+  "available": 4,
+  "location": "Shelf A2",
+  "imageUrl": "https://m.media-amazon.com/images/I/81Scutrtj4L._UF1000,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "67a2eeec5bf76d3b5f668dbb"
+  },
+  "title": "Moby-Dick",
+  "description": "Một câu chuyện sử thi về cuộc hành trình của thuyền trưởng Ahab để trả thù con cá voi trắng Moby Dick.",
+  "author": "Herman Melville",
+  "isbn": "9781503280786",
+  "category": {
+    "$oid": "67a2e18de1bbae53cef6f9af"
+  },
+  "country": "USA",
+  "publicationYear": 1851,
+  "copies": 5,
+  "available": 2,
+  "location": "Shelf A3",
+  "imageUrl": "https://m.media-amazon.com/images/I/71K4OH9CqOL._UF1000,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "67a2eeec5bf76d3b5f668dbc"
+  },
+  "title": "Don Quixote",
+  "description": "Một trong những tác phẩm vĩ đại nhất của văn học Tây Ban Nha, kể về cuộc phiêu lưu của Don Quixote và người hầu Sancho Panza.",
+  "author": "Miguel de Cervantes",
+  "isbn": "9780060934347",
+  "category": {
+    "$oid": "67a2e18de1bbae53cef6f9af"
+  },
+  "country": "Spain",
+  "publicationYear": 1605,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf B1",
+  "imageUrl": "https://m.media-amazon.com/images/I/71GBg+Ah1cL._AC_UF1000,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "67a2eeec5bf76d3b5f668dbd"
+  },
+  "title": "War and Peace",
+  "description": "Tiểu thuyết sử thi của Nga, miêu tả cuộc sống của các gia đình quý tộc trong bối cảnh chiến tranh Napoléon.",
+  "author": "Leo Tolstoy",
+  "isbn": "9781853260629",
+  "category": {
+    "$oid": "67a2e18de1bbae53cef6f9af"
+  },
+  "country": "Russia",
+  "publicationYear": 1869,
+  "copies": 5,
+  "available": 4,
+  "location": "Shelf B2",
+  "imageUrl": "https://m.media-amazon.com/images/I/71lPZpwz0HL._AC_UF1000,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "67a2eeec5bf76d3b5f668dbe"
+  },
+  "title": "Anna Karenina",
+  "description": "Câu chuyện về cuộc đời của Anna Karenina, một phụ nữ quý tộc bị rơi vào một cuộc tình đầy bi kịch.",
+  "author": "Leo Tolstoy",
+  "isbn": "9781853262715",
+  "category": {
+    "$oid": "67a2e18de1bbae53cef6f9af"
+  },
+  "country": "Russia",
+  "publicationYear": 1878,
+  "copies": 5,
+  "available": 2,
+  "location": "Shelf B3",
+  "imageUrl": "https://m.media-amazon.com/images/I/71qqENLiVKL._UF1000,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "67a2eeec5bf76d3b5f668dbf"
+  },
+  "title": "Great Expectations",
+  "description": "Một tiểu thuyết về sự trưởng thành của Pip, từ một đứa trẻ nghèo khổ đến một người đàn ông giàu có.",
+  "author": "Charles Dickens",
+  "isbn": "9780141439563",
+  "category": {
+    "$oid": "67a2e18de1bbae53cef6f9af"
+  },
+  "country": "England",
+  "publicationYear": 1861,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf C1",
+  "imageUrl": "https://m.media-amazon.com/images/I/81elBAS5LcL._UF1000,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "67a2eeec5bf76d3b5f668dc0"
+  },
+  "title": "The Odyssey",
+  "description": "Một sử thi Hy Lạp cổ đại kể về cuộc hành trình trở về nhà đầy gian nan của anh hùng Odysseus.",
+  "author": "Homer",
+  "isbn": "9780140449112",
+  "category": {
+    "$oid": "67a2e18de1bbae53cef6f9af"
+  },
+  "country": "Greece",
+  "publicationYear": -700,
+  "copies": 5,
+  "available": 4,
+  "location": "Shelf C2",
+  "imageUrl": "https://m.media-amazon.com/images/I/81rJfnJwlxL._AC_UF1000,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "67a2eeec5bf76d3b5f668dc1"
+  },
+  "title": "The Picture of Dorian Gray",
+  "description": "Câu chuyện về Dorian Gray, một chàng trai trẻ giữ gìn vẻ ngoài đẹp mãi mãi trong khi tâm hồn anh ta lại suy đồi.",
+  "author": "Oscar Wilde",
+  "isbn": "9780141439570",
+  "category": {
+    "$oid": "67a2e18de1bbae53cef6f9af"
+  },
+  "country": "Ireland",
+  "publicationYear": 1890,
+  "copies": 5,
+  "available": 5,
+  "location": "Shelf C3",
+  "imageUrl": "https://m.media-amazon.com/images/I/617wZKcTRkS._AC_UF1000,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "67a2eeec5bf76d3b5f668dc2"
+  },
+  "title": "Frankenstein",
+  "description": "Tiểu thuyết kinh dị nổi tiếng kể về tiến sĩ Victor Frankenstein và con quái vật mà ông tạo ra.",
+  "author": "Mary Shelley",
+  "isbn": "9780486282114",
+  "category": {
+    "$oid": "67a2e18de1bbae53cef6f9af"
+  },
+  "country": "England",
+  "publicationYear": 1818,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf D1",
+  "imageUrl": "https://m.media-amazon.com/images/I/81TVqiv-ctL._AC_UF1000,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "67a2f1495bf76d3b5f668dc3"
+  },
+  "title": "The Road",
+  "description": "Một câu chuyện hậu tận thế đầy cảm động về tình cha con và sự sống còn trong thế giới hoang tàn.",
+  "author": "Cormac McCarthy",
+  "isbn": "9780307387899",
+  "category": {
+    "$oid": "67a2e193e1bbae53cef6f9b0"
+  },
+  "country": "USA",
+  "publicationYear": 2006,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf E1",
+  "imageUrl": "https://m.media-amazon.com/images/I/81TRJ2HbKdL._AC_UF1000,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "67a2f1495bf76d3b5f668dc4"
+  },
+  "title": "Life of Pi",
+  "description": "Hành trình sinh tồn kỳ diệu của một cậu bé và con hổ Bengal trên đại dương bao la.",
+  "author": "Yann Martel",
+  "isbn": "9780156027328",
+  "category": {
+    "$oid": "67a2e193e1bbae53cef6f9b0"
+  },
+  "country": "Canada",
+  "publicationYear": 2001,
+  "copies": 5,
+  "available": 4,
+  "location": "Shelf E2",
+  "imageUrl": "https://m.media-amazon.com/images/I/81E9oNSK3bL._AC_UF1000,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "67a2f1495bf76d3b5f668dc5"
+  },
+  "title": "The Goldfinch",
+  "description": "Một chàng trai trẻ bị cuốn vào thế giới nghệ thuật, tội phạm và nỗi ám ảnh sau một bi kịch gia đình.",
+  "author": "Donna Tartt",
+  "isbn": "9780316055437",
+  "category": {
+    "$oid": "67a2e193e1bbae53cef6f9b0"
+  },
+  "country": "USA",
+  "publicationYear": 2013,
+  "copies": 5,
+  "available": 2,
+  "location": "Shelf E3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a2f1495bf76d3b5f668dc6"
+  },
+  "title": "The Night Circus",
+  "description": "Một gánh xiếc huyền bí chỉ xuất hiện vào ban đêm, nơi hai pháp sư trẻ đối đầu trong một cuộc thi phép thuật định mệnh.",
+  "author": "Erin Morgenstern",
+  "isbn": "9780385534635",
+  "category": {
+    "$oid": "67a2e193e1bbae53cef6f9b0"
+  },
+  "country": "USA",
+  "publicationYear": 2011,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a2f1495bf76d3b5f668dc7"
+  },
+  "title": "Project Hail Mary",
+  "description": "Một phi hành gia tỉnh dậy mà không nhớ mình là ai, nhưng nhiệm vụ của anh có thể quyết định số phận của Trái Đất.",
+  "author": "Andy Weir",
+  "isbn": "9780593135204",
+  "category": {
+    "$oid": "67a2e193e1bbae53cef6f9b0"
+  },
+  "country": "USA",
+  "publicationYear": 2021,
+  "copies": 5,
+  "available": 4,
+  "location": "Shelf F2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a2f1495bf76d3b5f668dc8"
+  },
+  "title": "Gone Girl",
+  "description": "Vụ mất tích bí ẩn của một người vợ dần hé lộ những bí mật đen tối trong cuộc hôn nhân tưởng như hoàn hảo.",
+  "author": "Gillian Flynn",
+  "isbn": "9780307588371",
+  "category": {
+    "$oid": "67a2e193e1bbae53cef6f9b0"
+  },
+  "country": "USA",
+  "publicationYear": 2012,
+  "copies": 5,
+  "available": 2,
+  "location": "Shelf F3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a2f1495bf76d3b5f668dc9"
+  },
+  "title": "The Silent Patient",
+  "description": "Một nữ họa sĩ bị buộc tội giết chồng nhưng lại giữ im lặng tuyệt đối, khiến bác sĩ tâm lý quyết tâm tìm ra sự thật.",
+  "author": "Alex Michaelides",
+  "isbn": "9781250301697",
+  "category": {
+    "$oid": "67a2e193e1bbae53cef6f9b0"
+  },
+  "country": "Cyprus",
+  "publicationYear": 2019,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a2f1495bf76d3b5f668dca"
+  },
+  "title": "Me Before You",
+  "description": "Chuyện tình đầy xúc động giữa một cô gái tỉnh lẻ và một chàng trai giàu có nhưng bị liệt toàn thân.",
+  "author": "Jojo Moyes",
+  "isbn": "9780143124542",
+  "category": {
+    "$oid": "67a2e193e1bbae53cef6f9b0"
+  },
+  "country": "England",
+  "publicationYear": 2012,
+  "copies": 5,
+  "available": 4,
+  "location": "Shelf G2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a2f1495bf76d3b5f668dcb"
+  },
+  "title": "The Fault in Our Stars",
+  "description": "Hai thiếu niên mắc bệnh nan y tìm thấy tình yêu và ý nghĩa của cuộc sống trong những ngày cuối cùng.",
+  "author": "John Green",
+  "isbn": "9780525478812",
+  "category": {
+    "$oid": "67a2e193e1bbae53cef6f9b0"
+  },
+  "country": "USA",
+  "publicationYear": 2012,
+  "copies": 5,
+  "available": 5,
+  "location": "Shelf G3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a2f1495bf76d3b5f668dcc"
+  },
+  "title": "It Ends with Us",
+  "description": "Một câu chuyện tình yêu đầy cảm xúc, khám phá những tổn thương và quyết định khó khăn trong cuộc sống.",
+  "author": "Colleen Hoover",
+  "isbn": "9781501110368",
+  "category": {
+    "$oid": "67a2e193e1bbae53cef6f9b0"
+  },
+  "country": "USA",
+  "publicationYear": 2016,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a701c53d5576021d75efc0"
+  },
+  "title": "Harry Potter",
+  "description": "Hành trình của cậu bé phù thủy Harry Potter và bạn bè chống lại chúa tể hắc ám Voldemort.",
+  "author": "J.K. Rowling",
+  "isbn": "9780747532743",
+  "category": {
+    "$oid": "67a2e19de1bbae53cef6f9b1"
+  },
+  "country": "United Kingdom",
+  "publicationYear": 1997,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf M1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a701c53d5576021d75efc1"
+  },
+  "title": "The Lord of the Rings",
+  "description": "Cuộc phiêu lưu sử thi của Frodo Baggins và nhóm bạn nhằm tiêu diệt chiếc nhẫn quyền lực.",
+  "author": "J.R.R. Tolkien",
+  "isbn": "9780261102385",
+  "category": {
+    "$oid": "67a2e19de1bbae53cef6f9b1"
+  },
+  "country": "United Kingdom",
+  "publicationYear": 1954,
+  "copies": 5,
+  "available": 4,
+  "location": "Shelf M2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a701c53d5576021d75efc2"
+  },
+  "title": "The Hobbit",
+  "description": "Hành trình của Bilbo Baggins cùng nhóm người lùn đi tìm lại kho báu từ rồng Smaug.",
+  "author": "J.R.R. Tolkien",
+  "isbn": "9780261102217",
+  "category": {
+    "$oid": "67a2e19de1bbae53cef6f9b1"
+  },
+  "country": "United Kingdom",
+  "publicationYear": 1937,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf M3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a701c53d5576021d75efc3"
+  },
+  "title": "A Song of Ice and Fire",
+  "description": "Cuộc chiến giành quyền lực giữa các gia tộc ở vùng đất Westeros đầy âm mưu và quái vật huyền bí.",
+  "author": "George R.R. Martin",
+  "isbn": "9780553103540",
+  "category": {
+    "$oid": "67a2e19de1bbae53cef6f9b1"
+  },
+  "country": "United States",
+  "publicationYear": 1996,
+  "copies": 5,
+  "available": 2,
+  "location": "Shelf M4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a701c53d5576021d75efc4"
+  },
+  "title": "The Name of the Wind",
+  "description": "Câu chuyện về Kvothe, một thiên tài phép thuật với quá khứ huyền thoại và những bí ẩn chưa được giải đáp.",
+  "author": "Patrick Rothfuss",
+  "isbn": "9780756404741",
+  "category": {
+    "$oid": "67a2e19de1bbae53cef6f9b1"
+  },
+  "country": "United States",
+  "publicationYear": 2007,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf M5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a701c53d5576021d75efc5"
+  },
+  "title": "The Night Circus",
+  "description": "Một gánh xiếc kỳ ảo chỉ xuất hiện vào ban đêm, nơi hai pháp sư trẻ tham gia vào cuộc so tài định mệnh.",
+  "author": "Erin Morgenstern",
+  "isbn": "9780385534635",
+  "category": {
+    "$oid": "67a2e19de1bbae53cef6f9b1"
+  },
+  "country": "United States",
+  "publicationYear": 2011,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf M6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a701c53d5576021d75efc6"
+  },
+  "title": "Percy Jackson & the Olympians",
+  "description": "Câu chuyện về Percy Jackson, một thiếu niên phát hiện mình là con trai của thần biển Poseidon.",
+  "author": "Rick Riordan",
+  "isbn": "9780786838653",
+  "category": {
+    "$oid": "67a2e19de1bbae53cef6f9b1"
+  },
+  "country": "United States",
+  "publicationYear": 2005,
+  "copies": 5,
+  "available": 4,
+  "location": "Shelf M7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a701c53d5576021d75efc7"
+  },
+  "title": "American Gods",
+  "description": "Cuộc chiến giữa các vị thần cổ đại và thần mới trong thế giới hiện đại đầy huyền bí.",
+  "author": "Neil Gaiman",
+  "isbn": "9780060558123",
+  "category": {
+    "$oid": "67a2e19de1bbae53cef6f9b1"
+  },
+  "country": "United Kingdom",
+  "publicationYear": 2001,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf M8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a701c53d5576021d75efc8"
+  },
+  "title": "Mistborn",
+  "description": "Một thế giới bị thống trị bởi bạo chúa, nơi những người có khả năng đặc biệt sử dụng kim loại để điều khiển sức mạnh.",
+  "author": "Brandon Sanderson",
+  "isbn": "9780765311788",
+  "category": {
+    "$oid": "67a2e19de1bbae53cef6f9b1"
+  },
+  "country": "United States",
+  "publicationYear": 2006,
+  "copies": 5,
+  "available": 2,
+  "location": "Shelf M9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a701c53d5576021d75efc9"
+  },
+  "title": "The Lies of Locke Lamora",
+  "description": "Câu chuyện về một băng trộm thông minh chuyên lừa gạt giới quý tộc trong một thành phố huyền bí.",
+  "author": "Scott Lynch",
+  "isbn": "9780553804676",
+  "category": {
+    "$oid": "67a2e19de1bbae53cef6f9b1"
+  },
+  "country": "United States",
+  "publicationYear": 2006,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf M10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a7027e3d5576021d75efca"
+  },
+  "title": "Pride and Prejudice",
+  "description": "Chuyện tình kinh điển giữa Elizabeth Bennet thông minh, cá tính và quý ngài Darcy kiêu hãnh.",
+  "author": "Jane Austen",
+  "isbn": "9780141199078",
+  "category": {
+    "$oid": "67a2e1a0e1bbae53cef6f9b2"
+  },
+  "country": "United Kingdom",
+  "publicationYear": 1813,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf R1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a7027e3d5576021d75efcb"
+  },
+  "title": "Me Before You",
+  "description": "Mối quan hệ đầy cảm động giữa một cô gái bình thường và một chàng trai giàu có nhưng bị liệt toàn thân.",
+  "author": "Jojo Moyes",
+  "isbn": "9780718157838",
+  "category": {
+    "$oid": "67a2e1a0e1bbae53cef6f9b2"
+  },
+  "country": "United Kingdom",
+  "publicationYear": 2012,
+  "copies": 5,
+  "available": 4,
+  "location": "Shelf R2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a7027e3d5576021d75efcc"
+  },
+  "title": "The Notebook",
+  "description": "Câu chuyện tình yêu kéo dài suốt nhiều thập kỷ giữa Noah và Allie, vượt qua khoảng cách xã hội và thử thách cuộc đời.",
+  "author": "Nicholas Sparks",
+  "isbn": "9780446605236",
+  "category": {
+    "$oid": "67a2e1a0e1bbae53cef6f9b2"
+  },
+  "country": "United States",
+  "publicationYear": 1996,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf R3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a7027e3d5576021d75efcd"
+  },
+  "title": "It Ends with Us",
+  "description": "Một câu chuyện đầy cảm xúc về tình yêu, quá khứ đau thương và những quyết định khó khăn của một cô gái trẻ.",
+  "author": "Colleen Hoover",
+  "isbn": "9781501110368",
+  "category": {
+    "$oid": "67a2e1a0e1bbae53cef6f9b2"
+  },
+  "country": "United States",
+  "publicationYear": 2016,
+  "copies": 5,
+  "available": 2,
+  "location": "Shelf R4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a7027e3d5576021d75efce"
+  },
+  "title": "The Fault in Our Stars",
+  "description": "Chuyện tình cảm động giữa hai thiếu niên mắc bệnh nan y, cùng nhau trải qua những ngày tháng ý nghĩa nhất của cuộc đời.",
+  "author": "John Green",
+  "isbn": "9780525478812",
+  "category": {
+    "$oid": "67a2e1a0e1bbae53cef6f9b2"
+  },
+  "country": "United States",
+  "publicationYear": 2012,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf R5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a7027e3d5576021d75efcf"
+  },
+  "title": "One Day",
+  "description": "Emma và Dexter gặp nhau vào ngày tốt nghiệp và cuộc đời họ gắn kết qua những lần gặp gỡ suốt 20 năm.",
+  "author": "David Nicholls",
+  "isbn": "9780340896983",
+  "category": {
+    "$oid": "67a2e1a0e1bbae53cef6f9b2"
+  },
+  "country": "United Kingdom",
+  "publicationYear": 2009,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf R6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a7027e3d5576021d75efd0"
+  },
+  "title": "Outlander",
+  "description": "Một nữ y tá thời Thế chiến II bị xuyên không về thế kỷ 18 và vướng vào chuyện tình nồng cháy với một chiến binh Scotland.",
+  "author": "Diana Gabaldon",
+  "isbn": "9780440212560",
+  "category": {
+    "$oid": "67a2e1a0e1bbae53cef6f9b2"
+  },
+  "country": "United States",
+  "publicationYear": 1991,
+  "copies": 5,
+  "available": 4,
+  "location": "Shelf R7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a7027e3d5576021d75efd1"
+  },
+  "title": "Red, White & Royal Blue",
+  "description": "Chuyện tình giữa hoàng tử nước Anh và con trai Tổng thống Mỹ đầy ngọt ngào nhưng cũng đầy thử thách.",
+  "author": "Casey McQuiston",
+  "isbn": "9781250316776",
+  "category": {
+    "$oid": "67a2e1a0e1bbae53cef6f9b2"
+  },
+  "country": "United States",
+  "publicationYear": 2019,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf R8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a7027e3d5576021d75efd2"
+  },
+  "title": "Love and Other Words",
+  "description": "Hai người bạn thân thời thơ ấu trở thành tình yêu của nhau, nhưng một bí mật trong quá khứ đã chia cắt họ.",
+  "author": "Christina Lauren",
+  "isbn": "9781501128011",
+  "category": {
+    "$oid": "67a2e1a0e1bbae53cef6f9b2"
+  },
+  "country": "United States",
+  "publicationYear": 2018,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf R9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a7027e3d5576021d75efd3"
+  },
+  "title": "Call Me by Your Name",
+  "description": "Câu chuyện tình lãng mạn đầy cảm xúc giữa hai chàng trai trong một mùa hè nước Ý không thể quên.",
+  "author": "André Aciman",
+  "isbn": "9780312426781",
+  "category": {
+    "$oid": "67a2e1a0e1bbae53cef6f9b2"
+  },
+  "country": "Italy",
+  "publicationYear": 2007,
+  "copies": 5,
+  "available": 2,
+  "location": "Shelf R10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a702bf3d5576021d75efd4"
+  },
+  "title": "It",
+  "description": "Một nhóm trẻ em phải đối mặt với con quái vật ăn thịt ẩn nấp trong cống ngầm của thị trấn Derry.",
+  "author": "Stephen King",
+  "isbn": "9781501142970",
+  "category": {
+    "$oid": "67a2e1a3e1bbae53cef6f9b3"
+  },
+  "country": "United States",
+  "publicationYear": 1986,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a702bf3d5576021d75efd5"
+  },
+  "title": "The Shining",
+  "description": "Một gia đình chuyển đến khách sạn Overlook mùa đông, nơi người cha dần bị ám bởi thế lực ma quái.",
+  "author": "Stephen King",
+  "isbn": "9780307743657",
+  "category": {
+    "$oid": "67a2e1a3e1bbae53cef6f9b3"
+  },
+  "country": "United States",
+  "publicationYear": 1977,
+  "copies": 5,
+  "available": 2,
+  "location": "Shelf H2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a702bf3d5576021d75efd6"
+  },
+  "title": "Dracula",
+  "description": "Câu chuyện kinh điển về Bá tước Dracula, kẻ hút máu gieo rắc nỗi kinh hoàng khắp châu Âu.",
+  "author": "Bram Stoker",
+  "isbn": "9780141439846",
+  "category": {
+    "$oid": "67a2e1a3e1bbae53cef6f9b3"
+  },
+  "country": "United Kingdom",
+  "publicationYear": 1897,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a702bf3d5576021d75efd7"
+  },
+  "title": "Frankenstein",
+  "description": "Một nhà khoa học tạo ra một sinh vật từ xác chết, nhưng phải đối mặt với hậu quả khủng khiếp từ phát minh của mình.",
+  "author": "Mary Shelley",
+  "isbn": "9780486282114",
+  "category": {
+    "$oid": "67a2e1a3e1bbae53cef6f9b3"
+  },
+  "country": "United Kingdom",
+  "publicationYear": 1818,
+  "copies": 5,
+  "available": 4,
+  "location": "Shelf H4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a702bf3d5576021d75efd8"
+  },
+  "title": "House of Leaves",
+  "description": "Một cuốn tiểu thuyết kinh dị phi lý, kể về một căn nhà có diện tích bên trong lớn hơn bên ngoài và những bí ẩn rùng rợn.",
+  "author": "Mark Z. Danielewski",
+  "isbn": "9780375703768",
+  "category": {
+    "$oid": "67a2e1a3e1bbae53cef6f9b3"
+  },
+  "country": "United States",
+  "publicationYear": 2000,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a702bf3d5576021d75efd9"
+  },
+  "title": "The Silence of the Lambs",
+  "description": "Một nữ đặc vụ FBI hợp tác với bác sĩ tâm thần ăn thịt người Hannibal Lecter để truy tìm một kẻ giết người hàng loạt.",
+  "author": "Thomas Harris",
+  "isbn": "9780312195267",
+  "category": {
+    "$oid": "67a2e1a3e1bbae53cef6f9b3"
+  },
+  "country": "United States",
+  "publicationYear": 1988,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a702bf3d5576021d75efda"
+  },
+  "title": "Bird Box",
+  "description": "Thế giới bị thống trị bởi những sinh vật bí ẩn khiến ai nhìn thấy chúng sẽ phát điên và tự sát.",
+  "author": "Josh Malerman",
+  "isbn": "9780062259660",
+  "category": {
+    "$oid": "67a2e1a3e1bbae53cef6f9b3"
+  },
+  "country": "United States",
+  "publicationYear": 2014,
+  "copies": 5,
+  "available": 2,
+  "location": "Shelf H7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a702bf3d5576021d75efdb"
+  },
+  "title": "The Exorcist",
+  "description": "Một cô bé bị quỷ ám, và hai linh mục phải thực hiện nghi thức trừ tà đầy ám ảnh.",
+  "author": "William Peter Blatty",
+  "isbn": "9780061007224",
+  "category": {
+    "$oid": "67a2e1a3e1bbae53cef6f9b3"
+  },
+  "country": "United States",
+  "publicationYear": 1971,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a702bf3d5576021d75efdc"
+  },
+  "title": "The Haunting of Hill House",
+  "description": "Một nhóm người đến căn biệt thự bị ma ám để nghiên cứu hiện tượng siêu nhiên, nhưng họ dần bị ảnh hưởng bởi thế lực đen tối.",
+  "author": "Shirley Jackson",
+  "isbn": "9780143039983",
+  "category": {
+    "$oid": "67a2e1a3e1bbae53cef6f9b3"
+  },
+  "country": "United States",
+  "publicationYear": 1959,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a702bf3d5576021d75efdd"
+  },
+  "title": "Mexican Gothic",
+  "description": "Một người phụ nữ trẻ đến biệt thự xa xôi ở Mexico để điều tra những sự kiện kỳ lạ đang diễn ra với chị họ mình.",
+  "author": "Silvia Moreno-Garcia",
+  "isbn": "9780525620785",
+  "category": {
+    "$oid": "67a2e1a3e1bbae53cef6f9b3"
+  },
+  "country": "Mexico",
+  "publicationYear": 2020,
+  "copies": 5,
+  "available": 2,
+  "location": "Shelf H10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9627224c51901e640e592"
+  },
+  "title": "Chí Phèo",
+  "description": "Câu chuyện về cuộc đời bi kịch của Chí Phèo, một người nông dân bị xã hội và hoàn cảnh đẩy vào con đường tội lỗi.",
+  "author": "Nam Cao",
+  "isbn": "9786046974467",
+  "category": {
+    "$oid": "67a2e1f1e1bbae53cef6f9b4"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1967,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf V1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9627224c51901e640e593"
+  },
+  "title": "Lão Hạc",
+  "description": "Một câu chuyện cảm động về lão Hạc, một ông lão nghèo khổ với tình yêu thương con trai và chú chó già.",
+  "author": "Nam Cao",
+  "isbn": "9786046974450",
+  "category": {
+    "$oid": "67a2e1f1e1bbae53cef6f9b4"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1943,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf V2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9627224c51901e640e594"
+  },
+  "title": "Vợ Nhặt",
+  "description": "Chuyện kể về anh cu Tràng và cô vợ nhặt trong hoàn cảnh nghèo đói, trong bối cảnh nạn đói 1945 ở Việt Nam.",
+  "author": "Kim Lân",
+  "isbn": "9786046974462",
+  "category": {
+    "$oid": "67a2e1f1e1bbae53cef6f9b4"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1954,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf V3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9627224c51901e640e595"
+  },
+  "title": "Những đứa con trong gia đình",
+  "description": "Câu chuyện về một gia đình nông dân nghèo trong cuộc kháng chiến chống Mỹ, với những hi sinh, mất mát và tình yêu thương gia đình.",
+  "author": "Nguyễn Thi",
+  "isbn": "9786046974473",
+  "category": {
+    "$oid": "67a2e1f1e1bbae53cef6f9b4"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1966,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf V4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9627224c51901e640e596"
+  },
+  "title": "Bến quê",
+  "description": "Câu chuyện về người đàn ông đi tìm lại ký ức và những kỷ niệm đẹp trong một chuyến đi về quê hương đã mất.",
+  "author": "Nguyễn Minh Châu",
+  "isbn": "9786046974480",
+  "category": {
+    "$oid": "67a2e1f1e1bbae53cef6f9b4"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1990,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf V5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9627224c51901e640e597"
+  },
+  "title": "Cái Tết của Dân",
+  "description": "Một câu chuyện về những khó khăn và khát vọng của những người dân miền núi trong dịp Tết.",
+  "author": "Tô Hoài",
+  "isbn": "9786046974497",
+  "category": {
+    "$oid": "67a2e1f1e1bbae53cef6f9b4"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1976,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf V6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9627224c51901e640e598"
+  },
+  "title": "Tôi đi học",
+  "description": "Truyện ngắn kể về những cảm xúc đầu tiên của một cậu bé khi bước vào lớp học, đánh dấu một giai đoạn trưởng thành trong cuộc đời.",
+  "author": "Thanh Tịnh",
+  "isbn": "9786046974503",
+  "category": {
+    "$oid": "67a2e1f1e1bbae53cef6f9b4"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1941,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf V7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9627224c51901e640e599"
+  },
+  "title": "Người con gái Nam Xương",
+  "description": "Câu chuyện về người con gái Nam Xương, người vợ trung trinh bị oan khi bị nghi là mưu sát chồng.",
+  "author": "Nguyễn Dữ",
+  "isbn": "9786046974510",
+  "category": {
+    "$oid": "67a2e1f1e1bbae53cef6f9b4"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1556,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf V8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9627224c51901e640e59a"
+  },
+  "title": "Chiếc lá cuối cùng",
+  "description": "Dù không phải là tác phẩm gốc của văn học Việt Nam, nhưng đây là một câu chuyện nổi tiếng đã được dịch và rất được yêu thích trong văn hóa Việt Nam, kể về tình người và sự hy sinh trong tình yêu.",
+  "author": "O. Henry",
+  "isbn": "9786046974527",
+  "category": {
+    "$oid": "67a2e1f1e1bbae53cef6f9b4"
+  },
+  "country": "United States",
+  "publicationYear": 1905,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf V9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9627224c51901e640e59b"
+  },
+  "title": "Mảnh trăng cuối rừng",
+  "description": "Câu chuyện cảm động về tình yêu, sự hy sinh và những lựa chọn giữa tình yêu và nghĩa vụ trong thời kỳ chiến tranh.",
+  "author": "Nguyễn Minh Châu",
+  "isbn": "9786046974534",
+  "category": {
+    "$oid": "67a2e1f1e1bbae53cef6f9b4"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1991,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf V10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9636b24c51901e640e59c"
+  },
+  "title": "The Lottery",
+  "description": "Một câu chuyện đầy ám ảnh về một cộng đồng thực hiện một nghi lễ kỳ lạ, với cái kết bất ngờ và kinh hoàng.",
+  "author": "Shirley Jackson",
+  "isbn": "9780060926071",
+  "category": {
+    "$oid": "67a2e1f4e1bbae53cef6f9b5"
+  },
+  "country": "United States",
+  "publicationYear": 1948,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9636b24c51901e640e59d"
+  },
+  "title": "The Gift of the Magi",
+  "description": "Một câu chuyện cảm động về tình yêu và sự hy sinh giữa hai vợ chồng nghèo, mỗi người đều hy sinh thứ quý giá nhất để làm quà tặng cho người kia.",
+  "author": "O. Henry",
+  "isbn": "9780486296964",
+  "category": {
+    "$oid": "67a2e1f4e1bbae53cef6f9b5"
+  },
+  "country": "United States",
+  "publicationYear": 1905,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9636b24c51901e640e59e"
+  },
+  "title": "The Tell-Tale Heart",
+  "description": "Một câu chuyện kinh dị về sự ám ảnh, tội ác và cảm giác tội lỗi, khi một người giết người và rồi bị ám ảnh bởi tiếng tim đập của nạn nhân.",
+  "author": "Edgar Allan Poe",
+  "isbn": "9780486292454",
+  "category": {
+    "$oid": "67a2e1f4e1bbae53cef6f9b5"
+  },
+  "country": "United States",
+  "publicationYear": 1843,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9636b24c51901e640e59f"
+  },
+  "title": "A Good Man Is Hard to Find",
+  "description": "Một gia đình đi du lịch gặp phải một tên tội phạm, câu chuyện mở ra những khía cạnh u ám về con người và xã hội.",
+  "author": "Flannery O'Connor",
+  "isbn": "9780151040102",
+  "category": {
+    "$oid": "67a2e1f4e1bbae53cef6f9b5"
+  },
+  "country": "United States",
+  "publicationYear": 1953,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9636b24c51901e640e5a0"
+  },
+  "title": "The Yellow Wallpaper",
+  "description": "Câu chuyện về một người phụ nữ bị mắc bệnh tâm lý và sự đấu tranh với căn bệnh này khi bị giam giữ trong một căn phòng kín, với những dấu hiệu của sự khủng hoảng tinh thần.",
+  "author": "Charlotte Perkins Gilman",
+  "isbn": "9780486298616",
+  "category": {
+    "$oid": "67a2e1f4e1bbae53cef6f9b5"
+  },
+  "country": "United States",
+  "publicationYear": 1892,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9636b24c51901e640e5a1"
+  },
+  "title": "The Metamorphosis",
+  "description": "Câu chuyện kinh điển về Gregor Samsa, người bỗng nhiên biến thành một con sâu khổng lồ, và sự thay đổi trong mối quan hệ gia đình của anh.",
+  "author": "Franz Kafka",
+  "isbn": "9780140442288",
+  "category": {
+    "$oid": "67a2e1f4e1bbae53cef6f9b5"
+  },
+  "country": "Austria-Hungary",
+  "publicationYear": 1915,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9636b24c51901e640e5a2"
+  },
+  "title": "The Necklace",
+  "description": "Một phụ nữ nghèo mơ ước có một cuộc sống giàu có, nhưng khi cô vay mượn một chiếc vòng cổ kim cương, sự việc biến thành một bi kịch lớn.",
+  "author": "Guy de Maupassant",
+  "isbn": "9780140444374",
+  "category": {
+    "$oid": "67a2e1f4e1bbae53cef6f9b5"
+  },
+  "country": "France",
+  "publicationYear": 1884,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9636b24c51901e640e5a3"
+  },
+  "title": "Hills Like White Elephants",
+  "description": "Câu chuyện giữa một đôi tình nhân nói về việc phá thai, phản ánh sự giao tiếp không lời và những hiểu lầm trong tình yêu.",
+  "author": "Ernest Hemingway",
+  "isbn": "9780743273565",
+  "category": {
+    "$oid": "67a2e1f4e1bbae53cef6f9b5"
+  },
+  "country": "United States",
+  "publicationYear": 1927,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9636b24c51901e640e5a4"
+  },
+  "title": "The Bet",
+  "description": "Một câu chuyện về một cuộc cá cược giữa một nhà triệu phú và một luật sư, với phần thưởng là một khoản tiền lớn nếu người thắng có thể sống 15 năm trong tù biệt lập.",
+  "author": "Anton Chekhov",
+  "isbn": "9780486266881",
+  "category": {
+    "$oid": "67a2e1f4e1bbae53cef6f9b5"
+  },
+  "country": "Russia",
+  "publicationYear": 1889,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9636b24c51901e640e5a5"
+  },
+  "title": "The Secret Life of Walter Mitty",
+  "description": "Một câu chuyện hài hước nhưng đầy tính triết lý về Walter Mitty, người sống trong một thế giới tưởng tượng đầy mạo hiểm và kịch tính, để trốn tránh cuộc sống nhàm chán thực tại.",
+  "author": "James Thurber",
+  "isbn": "9780395862228",
+  "category": {
+    "$oid": "67a2e1f4e1bbae53cef6f9b5"
+  },
+  "country": "United States",
+  "publicationYear": 1939,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a964a624c51901e640e5a6"
+  },
+  "title": "The Most Dangerous Game",
+  "description": "Câu chuyện về một người thợ săn bị bắt cóc và đưa đến một hòn đảo xa xôi, nơi anh phải đối mặt với một trò săn nguy hiểm nhất – săn người.",
+  "author": "Richard Connell",
+  "isbn": "9780440004005",
+  "category": {
+    "$oid": "67a2e1f7e1bbae53cef6f9b6"
+  },
+  "country": "United States",
+  "publicationYear": 1924,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf A1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a964a624c51901e640e5a7"
+  },
+  "title": "The Call of the Wild",
+  "description": "Câu chuyện phiêu lưu của Buck, một con chó bị bắt từ một cuộc sống yên bình và phải chiến đấu sinh tồn trong môi trường hoang dã của miền Bắc.",
+  "author": "Jack London",
+  "isbn": "9780486264729",
+  "category": {
+    "$oid": "67a2e1f7e1bbae53cef6f9b6"
+  },
+  "country": "United States",
+  "publicationYear": 1903,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf A2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a964a624c51901e640e5a8"
+  },
+  "title": "Treasure Island (Trích đoạn)",
+  "description": "Câu chuyện về cậu bé Jim Hawkins và cuộc phiêu lưu tìm kiếm kho báu bị đánh cắp, với những nhân vật huyền thoại như Long John Silver.",
+  "author": "Robert Louis Stevenson",
+  "isbn": "9780141330085",
+  "category": {
+    "$oid": "67a2e1f7e1bbae53cef6f9b6"
+  },
+  "country": "United Kingdom",
+  "publicationYear": 1883,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf A3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a964a624c51901e640e5a9"
+  },
+  "title": "Journey to the Center of the Earth (Trích đoạn)",
+  "description": "Câu chuyện về nhóm nghiên cứu tìm đường vào lòng đất và khám phá những bí ẩn sâu thẳm dưới lòng Trái Đất.",
+  "author": "Jules Verne",
+  "isbn": "9780141441167",
+  "category": {
+    "$oid": "67a2e1f7e1bbae53cef6f9b6"
+  },
+  "country": "France",
+  "publicationYear": 1864,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf A4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a964a624c51901e640e5aa"
+  },
+  "title": "The Adventure of the Blue Carbuncle",
+  "description": "Một câu chuyện phiêu lưu trong series Sherlock Holmes, khi Holmes và Watson giải mã vụ mất tích của viên ngọc quý.",
+  "author": "Arthur Conan Doyle",
+  "isbn": "9781515115127",
+  "category": {
+    "$oid": "67a2e1f7e1bbae53cef6f9b6"
+  },
+  "country": "United Kingdom",
+  "publicationYear": 1892,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf A5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a964a624c51901e640e5ab"
+  },
+  "title": "Around the World in Eighty Days",
+  "description": "Phileas Fogg thực hiện một chuyến hành trình vòng quanh thế giới trong 80 ngày, với những cuộc phiêu lưu bất ngờ và thử thách.",
+  "author": "Jules Verne",
+  "isbn": "9780451531827",
+  "category": {
+    "$oid": "67a2e1f7e1bbae53cef6f9b6"
+  },
+  "country": "France",
+  "publicationYear": 1873,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf A6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a964a624c51901e640e5ac"
+  },
+  "title": "The Secret Garden (Trích đoạn)",
+  "description": "Câu chuyện về Mary Lennox, một cô bé mồ côi tìm thấy một khu vườn bí mật và cùng với những người bạn khám phá những phép màu trong cuộc sống.",
+  "author": "Frances Hodgson Burnett",
+  "isbn": "9780141321786",
+  "category": {
+    "$oid": "67a2e1f7e1bbae53cef6f9b6"
+  },
+  "country": "United Kingdom",
+  "publicationYear": 1911,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf A7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a964a624c51901e640e5ad"
+  },
+  "title": "The Red-Headed League",
+  "description": "Một câu chuyện Sherlock Holmes về một tổ chức bí ẩn và vụ trộm lớn được giải mã thông qua những chi tiết tinh vi.",
+  "author": "Arthur Conan Doyle",
+  "isbn": "9781515115134",
+  "category": {
+    "$oid": "67a2e1f7e1bbae53cef6f9b6"
+  },
+  "country": "United Kingdom",
+  "publicationYear": 1891,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf A8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a964a624c51901e640e5ae"
+  },
+  "title": "The Sea-Wolf (Trích đoạn)",
+  "description": "Một câu chuyện phiêu lưu trên biển khi Humphrey Van Weyden bị bắt giữ bởi một thuyền trưởng tàn nhẫn và trải qua một cuộc sống đầy nguy hiểm trên biển.",
+  "author": "Jack London",
+  "isbn": "9781593083004",
+  "category": {
+    "$oid": "67a2e1f7e1bbae53cef6f9b6"
+  },
+  "country": "United States",
+  "publicationYear": 1904,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf A9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a964a624c51901e640e5af"
+  },
+  "title": "The Flying Doctor",
+  "description": "Câu chuyện về một bác sĩ phi công dũng cảm bay qua những khu vực hẻo lánh, cứu sống những người gặp nạn trong cuộc sống đầy phiêu lưu.",
+  "author": "James Norman Hall",
+  "isbn": "9780553149370",
+  "category": {
+    "$oid": "67a2e1f7e1bbae53cef6f9b6"
+  },
+  "country": "United States",
+  "publicationYear": 1939,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf A10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9654d24c51901e640e5b0"
+  },
+  "title": "The Last Question",
+  "description": "Một câu chuyện về sự tiến hóa của nhân loại và trí tuệ nhân tạo, khi nhân loại tìm cách trả lời câu hỏi: làm sao để ngừng sự tàn lụi của vũ trụ?",
+  "author": "Isaac Asimov",
+  "isbn": "9780449245687",
+  "category": {
+    "$oid": "67a2e1f9e1bbae53cef6f9b7"
+  },
+  "country": "United States",
+  "publicationYear": 1956,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf B1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9654d24c51901e640e5b1"
+  },
+  "title": "The Veldt",
+  "description": "Câu chuyện về một gia đình sống trong một ngôi nhà tự động, nơi mà phòng chơi của trẻ em có thể tạo ra những thế giới ảo, và những điều kỳ lạ xảy ra khi chúng mất kiểm soát.",
+  "author": "Ray Bradbury",
+  "isbn": "9780345415723",
+  "category": {
+    "$oid": "67a2e1f9e1bbae53cef6f9b7"
+  },
+  "country": "United States",
+  "publicationYear": 1950,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf B2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9654d24c51901e640e5b2"
+  },
+  "title": "Harrison Bergeron",
+  "description": "Câu chuyện về một xã hội tương lai nơi tất cả mọi người đều bị ép buộc phải có sự công bằng tuyệt đối, bằng cách làm giảm mọi điểm mạnh của họ.",
+  "author": "Kurt Vonnegut",
+  "isbn": "9780385333485",
+  "category": {
+    "$oid": "67a2e1f9e1bbae53cef6f9b7"
+  },
+  "country": "United States",
+  "publicationYear": 1961,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf B3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9654d24c51901e640e5b3"
+  },
+  "title": "The Minority Report",
+  "description": "Một câu chuyện về một xã hội nơi các tội ác được ngừng trước khi chúng xảy ra nhờ vào khả năng tiên đoán, nhưng một người phát hiện ra mình sẽ trở thành kẻ phạm tội.",
+  "author": "Philip K. Dick",
+  "isbn": "9780547572686",
+  "category": {
+    "$oid": "67a2e1f9e1bbae53cef6f9b7"
+  },
+  "country": "United States",
+  "publicationYear": 1956,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf B4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9654d24c51901e640e5b4"
+  },
+  "title": "All You Zombies",
+  "description": "Một câu chuyện khoa học viễn tưởng xoay quanh một người du hành thời gian, khám phá những vòng xoáy kỳ lạ của chính mình qua nhiều thế kỷ.",
+  "author": "Robert A. Heinlein",
+  "isbn": "9780345332075",
+  "category": {
+    "$oid": "67a2e1f9e1bbae53cef6f9b7"
+  },
+  "country": "United States",
+  "publicationYear": 1959,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf B5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9654d24c51901e640e5b5"
+  },
+  "title": "The Machine Stops",
+  "description": "Một xã hội trong tương lai nơi con người sống dưới lòng đất và tất cả mọi thứ đều do máy móc điều khiển, cho đến khi một sự cố khiến mọi thứ đảo lộn.",
+  "author": "E.M. Forster",
+  "isbn": "9781589634063",
+  "category": {
+    "$oid": "67a2e1f9e1bbae53cef6f9b7"
+  },
+  "country": "United Kingdom",
+  "publicationYear": 1909,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf B6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9654d24c51901e640e5b6"
+  },
+  "title": "I, Robot",
+  "description": "Câu chuyện về những robot tự động, với ba định lý mà chúng phải tuân theo, và những vấn đề đạo đức nảy sinh khi các định lý này bị vi phạm.",
+  "author": "Isaac Asimov",
+  "isbn": "9780553382563",
+  "category": {
+    "$oid": "67a2e1f9e1bbae53cef6f9b7"
+  },
+  "country": "United States",
+  "publicationYear": 1950,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf B7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9654d24c51901e640e5b7"
+  },
+  "title": "The Sentinel",
+  "description": "Một nhóm nhà khoa học tìm thấy một cấu trúc ngoài hành tinh trên Mặt Trăng, mở ra câu hỏi về sự tồn tại của sự sống ngoài Trái Đất.",
+  "author": "Arthur C. Clarke",
+  "isbn": "9780553216751",
+  "category": {
+    "$oid": "67a2e1f9e1bbae53cef6f9b7"
+  },
+  "country": "United Kingdom",
+  "publicationYear": 1951,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf B8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9654d24c51901e640e5b8"
+  },
+  "title": "The Star",
+  "description": "Một câu chuyện về một nhóm phi hành gia khám phá một sao chổi, chỉ để phát hiện ra một bí mật kinh hoàng về sự diệt vong của một nền văn minh.",
+  "author": "Arthur C. Clarke",
+  "isbn": "9780553216752",
+  "category": {
+    "$oid": "67a2e1f9e1bbae53cef6f9b7"
+  },
+  "country": "United Kingdom",
+  "publicationYear": 1955,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf B9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9654d24c51901e640e5b9"
+  },
+  "title": "A Sound of Thunder",
+  "description": "Một nhóm người du hành thời gian đến thời kỳ khủng long, và một hành động nhỏ trong quá khứ có thể thay đổi toàn bộ tương lai.",
+  "author": "Ray Bradbury",
+  "isbn": "9780345320103",
+  "category": {
+    "$oid": "67a2e1f9e1bbae53cef6f9b7"
+  },
+  "country": "United States",
+  "publicationYear": 1952,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf B10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a966ca24c51901e640e5ba"
+  },
+  "title": "Naruto",
+  "description": "Câu chuyện về Naruto Uzumaki, một cậu bé ninja mơ ước trở thành Hokage và tìm kiếm sự công nhận trong thế giới ninja đầy thử thách.",
+  "author": "Masashi Kishimoto",
+  "isbn": "9784047139718",
+  "category": {
+    "$oid": "67a2e22de1bbae53cef6f9b8"
+  },
+  "country": "Japan",
+  "publicationYear": 1999,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf C1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a966ca24c51901e640e5bb"
+  },
+  "title": "One Piece",
+  "description": "Chuyến phiêu lưu của Monkey D. Luffy và băng cướp biển của anh trên con đường tìm kiếm kho báu One Piece, với ước mơ trở thành Vua Hải Tặc.",
+  "author": "Eiichiro Oda",
+  "isbn": "9784088737463",
+  "category": {
+    "$oid": "67a2e22de1bbae53cef6f9b8"
+  },
+  "country": "Japan",
+  "publicationYear": 1997,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf C2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a966ca24c51901e640e5bc"
+  },
+  "title": "Attack on Titan",
+  "description": "Một thế giới nơi loài người phải chiến đấu để sinh tồn chống lại những sinh vật khổng lồ ăn thịt người, với những bí ẩn chưa được giải đáp.",
+  "author": "Hajime Isayama",
+  "isbn": "9781612620244",
+  "category": {
+    "$oid": "67a2e22de1bbae53cef6f9b8"
+  },
+  "country": "Japan",
+  "publicationYear": 2009,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf C3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a966ca24c51901e640e5bd"
+  },
+  "title": "Dragon Ball",
+  "description": "Câu chuyện về Goku, một chiến binh Saiyan, từ thời thơ ấu đến khi trưởng thành, tham gia vào các cuộc chiến vĩ đại để bảo vệ Trái Đất.",
+  "author": "Akira Toriyama",
+  "isbn": "9781421532253",
+  "category": {
+    "$oid": "67a2e22de1bbae53cef6f9b8"
+  },
+  "country": "Japan",
+  "publicationYear": 1984,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf C4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a966ca24c51901e640e5be"
+  },
+  "title": "Death Note",
+  "description": "Câu chuyện về một học sinh trung học, Light Yagami, người tìm thấy một cuốn sổ có thể giết bất cứ ai nếu tên của họ được viết vào trong đó.",
+  "author": "Tsugumi Ohba, Takeshi Obata",
+  "isbn": "9781421525811",
+  "category": {
+    "$oid": "67a2e22de1bbae53cef6f9b8"
+  },
+  "country": "Japan",
+  "publicationYear": 2003,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf C5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a966ca24c51901e640e5bf"
+  },
+  "title": "My Hero Academia",
+  "description": "Trong một thế giới nơi mọi người đều có siêu năng lực, Izuku Midoriya, một cậu bé không có năng lực, mơ ước trở thành anh hùng.",
+  "author": "Kohei Horikoshi",
+  "isbn": "9781612621746",
+  "category": {
+    "$oid": "67a2e22de1bbae53cef6f9b8"
+  },
+  "country": "Japan",
+  "publicationYear": 2014,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf C6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a966ca24c51901e640e5c0"
+  },
+  "title": "Fullmetal Alchemist",
+  "description": "Câu chuyện về hai anh em, Edward và Alphonse Elric, tìm kiếm viên đá triết học để khôi phục lại cơ thể của mình sau một phép thuật thất bại.",
+  "author": "Hiromu Arakawa",
+  "isbn": "9781421513819",
+  "category": {
+    "$oid": "67a2e22de1bbae53cef6f9b8"
+  },
+  "country": "Japan",
+  "publicationYear": 2001,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf C7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a966ca24c51901e640e5c1"
+  },
+  "title": "Tokyo Ghoul",
+  "description": "Câu chuyện của Kaneki, một sinh viên bị biến thành một bán ma quái (ghoul) sau khi bị tấn công, và cuộc sống của anh trong một thế giới đầy những sinh vật ăn thịt người.",
+  "author": "Sui Ishida",
+  "isbn": "9781421572116",
+  "category": {
+    "$oid": "67a2e22de1bbae53cef6f9b8"
+  },
+  "country": "Japan",
+  "publicationYear": 2011,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf C8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a966ca24c51901e640e5c2"
+  },
+  "title": "One Punch Man",
+  "description": "Saitama là một anh hùng có thể đánh bại bất kỳ kẻ thù nào chỉ với một cú đấm, nhưng anh cảm thấy cuộc sống trở nên nhàm chán vì không có thử thách thực sự.",
+  "author": "ONE, Yusuke Murata",
+  "isbn": "9781421561059",
+  "category": {
+    "$oid": "67a2e22de1bbae53cef6f9b8"
+  },
+  "country": "Japan",
+  "publicationYear": 2009,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf C9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a966ca24c51901e640e5c3"
+  },
+  "title": "Bleach",
+  "description": "Câu chuyện về Ichigo Kurosaki, một cậu bé có khả năng nhìn thấy linh hồn và được giao nhiệm vụ bảo vệ thế giới con người khỏi những linh hồn ma quái.",
+  "author": "Tite Kubo",
+  "isbn": "9781421530572",
+  "category": {
+    "$oid": "67a2e22de1bbae53cef6f9b8"
+  },
+  "country": "Japan",
+  "publicationYear": 2001,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf C10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9684424c51901e640e5c4"
+  },
+  "title": "Solo Leveling",
+  "description": "Câu chuyện về Sung Jinwoo, một thợ săn yếu nhất trong một thế giới đầy cổng và quái vật, nhưng sau khi nhận được sức mạnh kỳ lạ, anh bắt đầu hành trình trở thành thợ săn mạnh nhất.",
+  "author": "Chugong, Jang Sung-rak (minh họa)",
+  "isbn": "9788922550464",
+  "category": {
+    "$oid": "67a2e22fe1bbae53cef6f9b9"
+  },
+  "country": "South Korea",
+  "publicationYear": 2016,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf D1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9684424c51901e640e5c5"
+  },
+  "title": "The Gamer",
+  "description": "Câu chuyện về Han Jee-Han, một học sinh trung học bắt đầu có khả năng nhìn thấy thế giới xung quanh dưới dạng trò chơi video, với cấp độ và kỹ năng giống như trong một game.",
+  "author": "Sung San-young, Sang-Ah (minh họa)",
+  "isbn": "9788935109172",
+  "category": {
+    "$oid": "67a2e22fe1bbae53cef6f9b9"
+  },
+  "country": "South Korea",
+  "publicationYear": 2013,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf D2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9684424c51901e640e5c6"
+  },
+  "title": "Tower of God",
+  "description": "Câu chuyện về Bam, một cậu bé bất chợt bước vào Tháp của Chúa để tìm kiếm người bạn thân nhất của mình, nhưng dần phát hiện ra những bí mật khủng khiếp về nơi này.",
+  "author": "SIU",
+  "isbn": "9788907341599",
+  "category": {
+    "$oid": "67a2e22fe1bbae53cef6f9b9"
+  },
+  "country": "South Korea",
+  "publicationYear": 2010,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf D3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9684424c51901e640e5c7"
+  },
+  "title": "Noblesse",
+  "description": "Câu chuyện về Cadis Etrama Di Raizel, một ma cà rồng quyền lực, khi anh thức tỉnh sau hàng ngàn năm và trở thành người bảo vệ cho thế giới hiện đại.",
+  "author": "Son Jeho, Lee Kwangsu (minh họa)",
+  "isbn": "9788907370513",
+  "category": {
+    "$oid": "67a2e22fe1bbae53cef6f9b9"
+  },
+  "country": "South Korea",
+  "publicationYear": 2007,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf D4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9684424c51901e640e5c8"
+  },
+  "title": "God of High School",
+  "description": "Một cuộc thi võ thuật cấp cao với những người tham gia từ khắp nơi trên thế giới, nơi các đối thủ có thể sử dụng năng lực siêu nhiên và võ công đặc biệt.",
+  "author": "Yongje Park",
+  "isbn": "9788907380307",
+  "category": {
+    "$oid": "67a2e22fe1bbae53cef6f9b9"
+  },
+  "country": "South Korea",
+  "publicationYear": 2011,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf D5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9684424c51901e640e5c9"
+  },
+  "title": "True Beauty",
+  "description": "Câu chuyện về Lim Jugyeong, một cô gái tự ti về ngoại hình và quyết tâm trở thành người đẹp qua trang điểm, nhưng lại phải đối mặt với những thử thách trong cuộc sống.",
+  "author": "Yaongyi",
+  "isbn": "9788936111533",
+  "category": {
+    "$oid": "67a2e22fe1bbae53cef6f9b9"
+  },
+  "country": "South Korea",
+  "publicationYear": 2018,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf D6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9684424c51901e640e5ca"
+  },
+  "title": "Lookism",
+  "description": "Một câu chuyện về Daniel, một cậu học sinh bị phân biệt đối xử vì ngoại hình, nhưng sau khi thức dậy, anh thấy mình có hai cơ thể – một cơ thể mập và một cơ thể đẹp trai.",
+  "author": "Park Tae-jun",
+  "isbn": "9788936185686",
+  "category": {
+    "$oid": "67a2e22fe1bbae53cef6f9b9"
+  },
+  "country": "South Korea",
+  "publicationYear": 2014,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf D7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9684424c51901e640e5cb"
+  },
+  "title": "A Returner’s Magic Should Be Special",
+  "description": "Câu chuyện về Desir Arman, một chiến binh tài ba từ thế giới bị diệt vong, quay lại quá khứ để thay đổi số phận và bảo vệ thế giới khỏi tai họa.",
+  "author": "Sun-Wook Jeon, So-Nan Yoo (minh họa)",
+  "isbn": "9788907320006",
+  "category": {
+    "$oid": "67a2e22fe1bbae53cef6f9b9"
+  },
+  "country": "South Korea",
+  "publicationYear": 2016,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf D8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9684424c51901e640e5cc"
+  },
+  "title": "The Breaker",
+  "description": "Câu chuyện về một học sinh trung học yếu đuối, được một võ sư huyền thoại nhận làm học trò và đào tạo để trở thành một chiến binh vĩ đại.",
+  "author": "Jeon Geuk-jin, Park Jin-Hwan (minh họa)",
+  "isbn": "9788907326602",
+  "category": {
+    "$oid": "67a2e22fe1bbae53cef6f9b9"
+  },
+  "country": "South Korea",
+  "publicationYear": 2007,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf D9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9684424c51901e640e5cd"
+  },
+  "title": "Bastard",
+  "description": "Câu chuyện về Jin, một cậu bé sống với người cha là một kẻ giết người hàng loạt, và cuộc đấu tranh của anh để thoát khỏi ảnh hưởng của cha mình.",
+  "author": "Carnby Kim, Youngchan Hwang (minh họa)",
+  "isbn": "9788907370070",
+  "category": {
+    "$oid": "67a2e22fe1bbae53cef6f9b9"
+  },
+  "country": "South Korea",
+  "publicationYear": 2017,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf D10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a968f324c51901e640e5ce"
+  },
+  "title": "Spider-Man",
+  "description": "Câu chuyện về Peter Parker, một cậu học sinh trung học bị cắn bởi một con nhện biến đổi gen, có được sức mạnh siêu phàm và trở thành Spider-Man để bảo vệ thành phố.",
+  "author": "Stan Lee, Steve Ditko",
+  "isbn": "9780847852790",
+  "category": {
+    "$oid": "67a2e233e1bbae53cef6f9ba"
+  },
+  "country": "USA",
+  "publicationYear": 1962,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf E1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a968f324c51901e640e5cf"
+  },
+  "title": "Batman: The Killing Joke",
+  "description": "Một câu chuyện về nguồn gốc của Joker, kẻ thù khét tiếng của Batman, với những yếu tố tâm lý sâu sắc và u ám, khai thác mối quan hệ giữa Batman và Joker.",
+  "author": "Alan Moore, Brian Bolland",
+  "isbn": "9781401216672",
+  "category": {
+    "$oid": "67a2e233e1bbae53cef6f9ba"
+  },
+  "country": "USA",
+  "publicationYear": 1988,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf E2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a968f324c51901e640e5d0"
+  },
+  "title": "Watchmen",
+  "description": "Câu chuyện về nhóm siêu anh hùng đã nghỉ hưu phải đối mặt với một âm mưu toàn cầu, phản ánh sự phức tạp của đạo đức và xã hội trong một thế giới nơi siêu anh hùng không còn là những hình mẫu hoàn hảo.",
+  "author": "Alan Moore, Dave Gibbons",
+  "isbn": "9780930289232",
+  "category": {
+    "$oid": "67a2e233e1bbae53cef6f9ba"
+  },
+  "country": "USA",
+  "publicationYear": 1986,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf E3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a968f324c51901e640e5d1"
+  },
+  "title": "X-Men",
+  "description": "Câu chuyện về một nhóm người đột biến với những siêu năng lực đặc biệt, chiến đấu để bảo vệ thế giới khỏi các mối nguy hiểm trong khi đối mặt với sự phân biệt và thù hận.",
+  "author": "Stan Lee, Jack Kirby",
+  "isbn": "9780785110509",
+  "category": {
+    "$oid": "67a2e233e1bbae53cef6f9ba"
+  },
+  "country": "USA",
+  "publicationYear": 1963,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf E4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a968f324c51901e640e5d2"
+  },
+  "title": "Superman: Red Son",
+  "description": "Một câu chuyện giả tưởng về Superman nếu anh ta được sinh ra ở Liên Xô thay vì Kansas, và câu chuyện về những hệ quả của sự thay đổi này đối với thế giới.",
+  "author": "Mark Millar",
+  "isbn": "9781401220952",
+  "category": {
+    "$oid": "67a2e233e1bbae53cef6f9ba"
+  },
+  "country": "USA",
+  "publicationYear": 2003,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf E5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a968f324c51901e640e5d3"
+  },
+  "title": "The Walking Dead",
+  "description": "Câu chuyện về cuộc sống sau đại dịch zombie, nơi các nhân vật chiến đấu để sống sót trong một thế giới đầy nguy hiểm và đạo đức mong manh.",
+  "author": "Robert Kirkman, Tony Moore, Charlie Adlard",
+  "isbn": "9781582406728",
+  "category": {
+    "$oid": "67a2e233e1bbae53cef6f9ba"
+  },
+  "country": "USA",
+  "publicationYear": 2003,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf E6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a968f324c51901e640e5d4"
+  },
+  "title": "Iron Man: Extremis",
+  "description": "Một câu chuyện mang tính cải tiến công nghệ của Iron Man, khi Tony Stark cải tiến bộ giáp của mình với công nghệ cực kỳ tiên tiến và đối mặt với một kẻ thù mới cực kỳ nguy hiểm.",
+  "author": "Warren Ellis, Adi Granov",
+  "isbn": "9780785132552",
+  "category": {
+    "$oid": "67a2e233e1bbae53cef6f9ba"
+  },
+  "country": "USA",
+  "publicationYear": 2005,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf E7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a968f324c51901e640e5d5"
+  },
+  "title": "Sandman",
+  "description": "Câu chuyện kỳ ảo về Morpheus, vị thần của giấc mơ, và cuộc hành trình của anh trong một thế giới chứa đựng các sinh vật siêu nhiên và những câu chuyện ly kỳ từ quá khứ đến hiện tại.",
+  "author": "Neil Gaiman",
+  "isbn": "9781563893691",
+  "category": {
+    "$oid": "67a2e233e1bbae53cef6f9ba"
+  },
+  "country": "USA",
+  "publicationYear": 1989,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf E8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a968f324c51901e640e5d6"
+  },
+  "title": "Green Lantern: Rebirth",
+  "description": "Câu chuyện về sự hồi sinh của Hal Jordan, một Green Lantern nổi tiếng, và cuộc đấu tranh chống lại một thế lực đen tối nguy hiểm có thể thay đổi toàn bộ Vũ trụ.",
+  "author": "Geoff Johns, Ethan Van Sciver",
+  "isbn": "9781401208983",
+  "category": {
+    "$oid": "67a2e233e1bbae53cef6f9ba"
+  },
+  "country": "USA",
+  "publicationYear": 2004,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf E9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a968f324c51901e640e5d7"
+  },
+  "title": "Ms. Marvel",
+  "description": "Câu chuyện về Kamala Khan, một cô gái Mỹ gốc Pakistan trở thành siêu anh hùng Ms. Marvel, người phải đối mặt với những thử thách của cuộc sống gia đình, cộng đồng và siêu anh hùng.",
+  "author": "G. Willow Wilson, Adrian Alphona",
+  "isbn": "9780785190737",
+  "category": {
+    "$oid": "67a2e233e1bbae53cef6f9ba"
+  },
+  "country": "USA",
+  "publicationYear": 2014,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf E10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a969f624c51901e640e5d8"
+  },
+  "title": "Thần Đồng Đất Việt",
+  "description": "Câu chuyện xoay quanh những tình huống hài hước và học hỏi trong cuộc sống của các nhân vật thần đồng, với bối cảnh Việt Nam truyền thống và hiện đại.",
+  "author": "Lê Linh",
+  "isbn": "9786043662855",
+  "category": {
+    "$oid": "67a2e236e1bbae53cef6f9bb"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1995,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a969f624c51901e640e5d9"
+  },
+  "title": "Dũng Sĩ Hesman",
+  "description": "Câu chuyện về Dũng Sĩ Hesman, một siêu anh hùng với sức mạnh phi thường chiến đấu chống lại kẻ xấu, bảo vệ hòa bình.",
+  "author": "Nguyễn Hùng",
+  "isbn": "9786045769324",
+  "category": {
+    "$oid": "67a2e236e1bbae53cef6f9bb"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1990,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a969f624c51901e640e5da"
+  },
+  "title": "Truyền Thuyết Con Rồng Cháu Tiên",
+  "description": "Một câu chuyện thần thoại Việt Nam về sự hình thành của dân tộc qua các truyền thuyết về Lạc Long Quân và Âu Cơ.",
+  "author": "Nguyễn Hữu Hạnh",
+  "isbn": "9786049456025",
+  "category": {
+    "$oid": "67a2e236e1bbae53cef6f9bb"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2000,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a969f624c51901e640e5db"
+  },
+  "title": "Ký Sự Biển Đông",
+  "description": "Câu chuyện về những cuộc chiến tranh giành chủ quyền biển đảo, với các nhân vật chiến sĩ Việt Nam dũng cảm bảo vệ lãnh thổ đất nước.",
+  "author": "Bùi Tiến Dũng",
+  "isbn": "9786045748855",
+  "category": {
+    "$oid": "67a2e236e1bbae53cef6f9bb"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2010,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a969f624c51901e640e5dc"
+  },
+  "title": "Bí Mật Những Con Búp Bê",
+  "description": "Một tác phẩm manga phong cách Việt kể về những câu chuyện kỳ bí, huyền bí có phần kinh dị, lôi cuốn người đọc với cốt truyện hấp dẫn.",
+  "author": "Nguyễn Quang Tuyến",
+  "isbn": "9786049473640",
+  "category": {
+    "$oid": "67a2e236e1bbae53cef6f9bb"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2015,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a969f624c51901e640e5dd"
+  },
+  "title": "Bảo Long Đại Hiệp",
+  "description": "Câu chuyện về Bảo Long, một anh hùng võ lâm với những trận chiến huyền thoại bảo vệ dân lành, khôi phục hòa bình cho giang hồ.",
+  "author": "Hồ Cảnh",
+  "isbn": "9786049931287",
+  "category": {
+    "$oid": "67a2e236e1bbae53cef6f9bb"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2005,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a969f624c51901e640e5de"
+  },
+  "title": "Võ Lâm Kỳ Hiệp",
+  "description": "Một câu chuyện huyền thoại về những cuộc chiến võ lâm, với các nhân vật dũng mãnh chiến đấu vì chính nghĩa và công lý trong một thế giới đầy quyền lực và âm mưu.",
+  "author": "Trí Nguyễn",
+  "isbn": "9786049580644",
+  "category": {
+    "$oid": "67a2e236e1bbae53cef6f9bb"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2012,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a969f624c51901e640e5df"
+  },
+  "title": "Cây Sương Rồng",
+  "description": "Một truyện tranh lãng mạn và có chiều sâu về tình yêu, sự hy sinh và các mối quan hệ gia đình trong cuộc sống đương đại.",
+  "author": "Phạm Đình Tùng",
+  "isbn": "9786049657471",
+  "category": {
+    "$oid": "67a2e236e1bbae53cef6f9bb"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2013,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a969f624c51901e640e5e0"
+  },
+  "title": "Chuyện Cổ Tích Việt Nam",
+  "description": "Tuyển tập các câu chuyện cổ tích Việt Nam, tái hiện lại những câu chuyện ngụ ngôn, triết lý dân gian qua hình thức truyện tranh sinh động.",
+  "author": "Các tác giả Việt Nam",
+  "isbn": "9786049736821",
+  "category": {
+    "$oid": "67a2e236e1bbae53cef6f9bb"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2008,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a969f624c51901e640e5e1"
+  },
+  "title": "Bí Ẩn Của Đại Dương",
+  "description": "Một cuộc phiêu lưu kỳ thú về những điều bí ẩn dưới đáy biển, với các nhân vật trẻ tuổi khám phá những kho báu cổ xưa và đối mặt với các sinh vật kỳ lạ.",
+  "author": "Nguyễn Xuân Hùng",
+  "isbn": "9786049700001",
+  "category": {
+    "$oid": "67a2e236e1bbae53cef6f9bb"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2017,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f466f147a6a8c03f6b1"
+  },
+  "title": "Công Chúa Mía",
+  "description": "Câu chuyện về một công chúa xinh đẹp, nhưng vì lời nguyền của một phù thủy độc ác, nàng phải trải qua nhiều thử thách và cuối cùng tìm thấy tình yêu đích thực.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049878761",
+  "category": {
+    "$oid": "67a2e24ee1bbae53cef6f9bc"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2005,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f466f147a6a8c03f6b2"
+  },
+  "title": "Bạch Tuyết và Bảy Chú Lùn",
+  "description": "Câu chuyện về Bạch Tuyết, một công chúa bị mẹ kế xấu xa ghen ghét, phải chạy trốn và sống cùng bảy chú lùn trong rừng, cho đến khi gặp được hoàng tử cứu thoát.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049426100",
+  "category": {
+    "$oid": "67a2e24ee1bbae53cef6f9bc"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2000,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f466f147a6a8c03f6b3"
+  },
+  "title": "Cô Bé Lọ Lem",
+  "description": "Câu chuyện về cô gái hiền lành và tốt bụng bị mẹ kế và chị em độc ác đối xử tệ, nhưng nhờ sự giúp đỡ của bà tiên, nàng được tham gia buổi dạ hội và tìm thấy hoàng tử của mình.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049711112",
+  "category": {
+    "$oid": "67a2e24ee1bbae53cef6f9bc"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2003,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f466f147a6a8c03f6b4"
+  },
+  "title": "Hạt Giống Tình Thương",
+  "description": "Câu chuyện về một người đàn ông giàu có có lòng hảo tâm giúp đỡ người nghèo, và qua đó nhận được nhiều điều tốt đẹp trong cuộc sống.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049732154",
+  "category": {
+    "$oid": "67a2e24ee1bbae53cef6f9bc"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2010,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f466f147a6a8c03f6b5"
+  },
+  "title": "Tấm Cám",
+  "description": "Một câu chuyện cổ tích Việt Nam về cô gái Tấm, bị mẹ kế và chị em ghét bỏ, nhưng cuối cùng nhờ lòng tốt và sự kiên trì, nàng đã vượt qua thử thách và trở thành hoàng hậu.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049922514",
+  "category": {
+    "$oid": "67a2e24ee1bbae53cef6f9bc"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1998,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f466f147a6a8c03f6b6"
+  },
+  "title": "Nàng Tiên Cá",
+  "description": "Câu chuyện về một nàng tiên cá xinh đẹp, yêu một hoàng tử loài người, nhưng phải đối mặt với sự hy sinh lớn lao để đổi lấy đôi chân và cuộc sống trần gian.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049765430",
+  "category": {
+    "$oid": "67a2e24ee1bbae53cef6f9bc"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2012,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f466f147a6a8c03f6b7"
+  },
+  "title": "Cậu Bé Mũi Xoáy",
+  "description": "Câu chuyện về một cậu bé mũi xoáy tìm cách vượt qua những khó khăn và tìm ra bí mật về cuộc đời của mình, mang đến những bài học quý giá về sự kiên nhẫn và quyết tâm.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049642834",
+  "category": {
+    "$oid": "67a2e24ee1bbae53cef6f9bc"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2015,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f466f147a6a8c03f6b8"
+  },
+  "title": "Chú Cuội và Cây Cau",
+  "description": "Một câu chuyện dân gian Việt Nam về chú Cuội, người được cho là sống trên cung trăng, và hành trình hài hước, kỳ lạ của chú trong việc tìm kiếm cây cau thần thoại.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049476571",
+  "category": {
+    "$oid": "67a2e24ee1bbae53cef6f9bc"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2013,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f466f147a6a8c03f6b9"
+  },
+  "title": "Tí Hon và Cây Cà Rốt",
+  "description": "Câu chuyện về một cậu bé tí hon và hành trình vượt qua các thử thách để cứu gia đình mình khỏi nghèo đói, với sự giúp đỡ của những người bạn kỳ diệu.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049622150",
+  "category": {
+    "$oid": "67a2e24ee1bbae53cef6f9bc"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2014,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f466f147a6a8c03f6ba"
+  },
+  "title": "Ba Anh Em",
+  "description": "Câu chuyện về ba anh em, mỗi người sở hữu một món quà kỳ diệu từ mẹ của họ, cùng nhau vượt qua nhiều khó khăn và chiến đấu với ác quái để giành lại hạnh phúc cho gia đình.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049847061",
+  "category": {
+    "$oid": "67a2e24ee1bbae53cef6f9bc"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2007,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f9c6f147a6a8c03f6bb"
+  },
+  "title": "Con Cò và Con Cáo",
+  "description": "Câu chuyện về một con cò khôn ngoan và con cáo gian xảo, phản ánh bài học về sự khôn ngoan, cẩn trọng và đừng tin vào những lời nịnh bợ.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049395234",
+  "category": {
+    "$oid": "67a2e250e1bbae53cef6f9bd"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2010,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f9c6f147a6a8c03f6bc"
+  },
+  "title": "Chó và Cái Bóng",
+  "description": "Câu chuyện về một con chó tham lam, khi nhìn thấy bóng của mình trong nước và tưởng là một con chó khác có miếng thịt lớn hơn, dẫn đến việc mất miếng thịt ban đầu.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049754121",
+  "category": {
+    "$oid": "67a2e250e1bbae53cef6f9bd"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2012,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f9c6f147a6a8c03f6bd"
+  },
+  "title": "Chim Sẻ và Con Mèo",
+  "description": "Câu chuyện về một con chim sẻ và một con mèo, phản ánh sự khác biệt giữa các loài và cách mà chúng phải đối phó với những kẻ săn mồi lớn hơn.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049738298",
+  "category": {
+    "$oid": "67a2e250e1bbae53cef6f9bd"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2014,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f9c6f147a6a8c03f6be"
+  },
+  "title": "Người Nông Dân và Con Rùa",
+  "description": "Một người nông dân chăm sóc một con rùa, nhưng cuối cùng con rùa lại cứu sống người nông dân trong một tình huống nguy hiểm, bài học về lòng biết ơn và sự giúp đỡ lẫn nhau.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049730100",
+  "category": {
+    "$oid": "67a2e250e1bbae53cef6f9bd"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2015,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f9c6f147a6a8c03f6bf"
+  },
+  "title": "Lừa và Con Sư Tử",
+  "description": "Câu chuyện về một con lừa khờ dại bị lừa bởi con sư tử, phản ánh bài học về sự mưu trí và không nên để bị kẻ xấu lừa gạt.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049771225",
+  "category": {
+    "$oid": "67a2e250e1bbae53cef6f9bd"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2016,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f9c6f147a6a8c03f6c0"
+  },
+  "title": "Con Cáo và Con Quạ",
+  "description": "Câu chuyện về con cáo dùng lời nịnh nọt để lừa con quạ làm rơi miếng thịt, phản ánh bài học về sự cảnh giác và không nên tin vào lời khen giả dối.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049746363",
+  "category": {
+    "$oid": "67a2e250e1bbae53cef6f9bd"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2017,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f9c6f147a6a8c03f6c1"
+  },
+  "title": "Chó Sói và Con Cừu",
+  "description": "Câu chuyện về con chó sói tìm cách đổ lỗi cho con cừu vì một tội mà nó không làm, qua đó nhấn mạnh bài học về sự công bằng và lừa dối.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049758127",
+  "category": {
+    "$oid": "67a2e250e1bbae53cef6f9bd"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2018,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f9c6f147a6a8c03f6c2"
+  },
+  "title": "Thỏ và Rùa",
+  "description": "Câu chuyện về cuộc đua giữa thỏ và rùa, trong đó dù thỏ nhanh chóng hơn, nhưng chính sự kiên trì và bền bỉ của con rùa đã giúp nó chiến thắng.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049829140",
+  "category": {
+    "$oid": "67a2e250e1bbae53cef6f9bd"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2019,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f9c6f147a6a8c03f6c3"
+  },
+  "title": "Cái Chày và Cái Cối",
+  "description": "Câu chuyện về cái chày và cái cối trong một mâu thuẫn, với thông điệp về sự hòa hợp và làm việc cùng nhau để đạt được kết quả tốt đẹp.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049876527",
+  "category": {
+    "$oid": "67a2e250e1bbae53cef6f9bd"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2020,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a96f9c6f147a6a8c03f6c4"
+  },
+  "title": "Chim Họa Mi và Con Báo",
+  "description": "Câu chuyện về chim họa mi xinh đẹp dùng giọng hát của mình để lừa con báo, phản ánh bài học về sức mạnh của trí tuệ và sự thông minh trong những tình huống khó khăn.",
+  "author": "Tác giả Việt Nam",
+  "isbn": "9786049790624",
+  "category": {
+    "$oid": "67a2e250e1bbae53cef6f9bd"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2021,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a970156f147a6a8c03f6c5"
+  },
+  "title": "Cuộc Phiêu Lưu Của Huckleberry Finn",
+  "description": "Câu chuyện về Huck Finn và người bạn Jim, một nô lệ bỏ trốn, trên chuyến đi xuôi theo dòng sông Mississippi, đối mặt với nhiều thử thách và tìm kiếm tự do.",
+  "author": "Mark Twain",
+  "isbn": "9781853261105",
+  "category": {
+    "$oid": "67a2e252e1bbae53cef6f9be"
+  },
+  "country": "USA",
+  "publicationYear": 1884,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a970156f147a6a8c03f6c6"
+  },
+  "title": "Robinson Crusoe",
+  "description": "Câu chuyện về Robinson Crusoe, một thủy thủ bị mắc kẹt trên một hòn đảo hoang vắng suốt 28 năm, chiến đấu với thiên nhiên và cô đơn để sinh tồn.",
+  "author": "Daniel Defoe",
+  "isbn": "9780486295325",
+  "category": {
+    "$oid": "67a2e252e1bbae53cef6f9be"
+  },
+  "country": "UK",
+  "publicationYear": 1719,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a970156f147a6a8c03f6c7"
+  },
+  "title": "Alice Ở Xứ Sở Thần Tiên",
+  "description": "Câu chuyện về Alice, một cô bé rơi xuống một cái hố và khám phá một thế giới kỳ lạ, nơi các quy luật tự nhiên không còn đúng, dẫn cô vào những cuộc phiêu lưu không thể tưởng tượng được.",
+  "author": "Lewis Carroll",
+  "isbn": "9780141321071",
+  "category": {
+    "$oid": "67a2e252e1bbae53cef6f9be"
+  },
+  "country": "UK",
+  "publicationYear": 1865,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a970156f147a6a8c03f6c8"
+  },
+  "title": "Cuộc Phiêu Lưu Của Tom Sawyer",
+  "description": "Tom Sawyer, một cậu bé thông minh và nghịch ngợm, cùng bạn bè của mình tham gia vào những cuộc phiêu lưu đầy thú vị và đôi khi là nguy hiểm ở vùng quê miền Nam nước Mỹ.",
+  "author": "Mark Twain",
+  "isbn": "9780486400778",
+  "category": {
+    "$oid": "67a2e252e1bbae53cef6f9be"
+  },
+  "country": "USA",
+  "publicationYear": 1876,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a970156f147a6a8c03f6c9"
+  },
+  "title": "Peter Pan",
+  "description": "Câu chuyện về Peter Pan, cậu bé không bao giờ lớn, và những cuộc phiêu lưu kỳ diệu của cậu cùng Wendy và các em ở xứ Neverland.",
+  "author": "J.M. Barrie",
+  "isbn": "9781482054594",
+  "category": {
+    "$oid": "67a2e252e1bbae53cef6f9be"
+  },
+  "country": "UK",
+  "publicationYear": 1911,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a970156f147a6a8c03f6ca"
+  },
+  "title": "Vua Sư Tử",
+  "description": "Câu chuyện về Simba, một con sư tử nhỏ, trong hành trình khám phá và nhận thức về vai trò của mình trong vương quốc động vật.",
+  "author": "Roger Allers, Irene Mecchi",
+  "isbn": "9780786851943",
+  "category": {
+    "$oid": "67a2e252e1bbae53cef6f9be"
+  },
+  "country": "USA",
+  "publicationYear": 1994,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a970156f147a6a8c03f6cb"
+  },
+  "title": "Công Tước và Tên Trộm",
+  "description": "Câu chuyện về một công tử và những cuộc phiêu lưu kỳ thú của anh với những tên trộm và kẻ phản bội trong một thế giới giả tưởng.",
+  "author": "E. Nesbit",
+  "isbn": "9781844080146",
+  "category": {
+    "$oid": "67a2e252e1bbae53cef6f9be"
+  },
+  "country": "UK",
+  "publicationYear": 1901,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a970156f147a6a8c03f6cc"
+  },
+  "title": "The Hobbit",
+  "description": "Bilbo Baggins, một hobbit, bất ngờ tham gia vào một chuyến phiêu lưu với một nhóm người lùn để lấy lại kho báu bị chiếm đoạt từ con rồng Smaug.",
+  "author": "J.R.R. Tolkien",
+  "isbn": "9780345339683",
+  "category": {
+    "$oid": "67a2e252e1bbae53cef6f9be"
+  },
+  "country": "UK",
+  "publicationYear": 1937,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a970156f147a6a8c03f6cd"
+  },
+  "title": "Khám Phá Cõi Thần Tiên",
+  "description": "Câu chuyện về các anh em Pevensie khi họ bước vào một cánh cửa thần kỳ, tìm thấy mình trong xứ Narnia, nơi họ tham gia vào cuộc chiến giữa thiện và ác.",
+  "author": "C.S. Lewis",
+  "isbn": "9780064409421",
+  "category": {
+    "$oid": "67a2e252e1bbae53cef6f9be"
+  },
+  "country": "UK",
+  "publicationYear": 1950,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a970156f147a6a8c03f6ce"
+  },
+  "title": "Mật Mã Da Vinci",
+  "description": "Một cuộc phiêu lưu đầy bí ẩn của Robert Langdon và Sophie Neveu, giải mã các manh mối trong các tác phẩm nghệ thuật nổi tiếng và tìm hiểu một bí mật cổ xưa.",
+  "author": "Dan Brown",
+  "isbn": "9780385504201",
+  "category": {
+    "$oid": "67a2e252e1bbae53cef6f9be"
+  },
+  "country": "USA",
+  "publicationYear": 2003,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a971846f147a6a8c03f6cf"
+  },
+  "title": "Chiến Tranh và Hòa Bình",
+  "description": "Câu chuyện diễn ra trong bối cảnh chiến tranh Napoléon ở Nga, theo chân các nhân vật trong gia đình Bolkonsky và Rostov, phản ánh sự thay đổi của xã hội và con người trong thời kỳ lịch sử quan trọng này.",
+  "author": "Leo Tolstoy",
+  "isbn": "9780199232765",
+  "category": {
+    "$oid": "67a2e25ce1bbae53cef6f9bf"
+  },
+  "country": "Russia",
+  "publicationYear": 1869,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a971846f147a6a8c03f6d0"
+  },
+  "title": "Cuốn Sách Của Những Đoạn Đời",
+  "description": "Câu chuyện về Scarlett O'Hara và cuộc sống của cô trong suốt thời kỳ Nội chiến Mỹ và thời kỳ tái thiết, khắc họa sâu sắc những thách thức và biến động trong một xã hội đầy bất công.",
+  "author": "Margaret Mitchell",
+  "isbn": "9781416548942",
+  "category": {
+    "$oid": "67a2e25ce1bbae53cef6f9bf"
+  },
+  "country": "USA",
+  "publicationYear": 1936,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a971846f147a6a8c03f6d1"
+  },
+  "title": "Đồng Quê",
+  "description": "Câu chuyện về một xã hội nông dân dưới sự cai trị của một chính quyền độc tài, phản ánh những vấn đề chính trị và xã hội qua hình thức động vật hóa các nhân vật.",
+  "author": "George Orwell",
+  "isbn": "9780451526342",
+  "category": {
+    "$oid": "67a2e25ce1bbae53cef6f9bf"
+  },
+  "country": "UK",
+  "publicationYear": 1945,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a971846f147a6a8c03f6d2"
+  },
+  "title": "1984",
+  "description": "Một tác phẩm về xã hội tương lai nơi chính quyền toàn trị kiểm soát tất cả các khía cạnh của đời sống con người, phê phán các chế độ độc tài và sự mất tự do cá nhân trong lịch sử hiện đại.",
+  "author": "George Orwell",
+  "isbn": "9780451524935",
+  "category": {
+    "$oid": "67a2e25ce1bbae53cef6f9bf"
+  },
+  "country": "UK",
+  "publicationYear": 1949,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a971846f147a6a8c03f6d3"
+  },
+  "title": "Khi Hơi Thở Hóa Thinh Không",
+  "description": "Một tiểu thuyết tự truyện kể về hành trình sống và chiến đấu với bệnh ung thư của tác giả, phản ánh những suy nghĩ sâu sắc về sự sống, cái chết, và ý nghĩa cuộc đời qua góc nhìn của một bác sĩ.",
+  "author": "Paul Kalanithi",
+  "isbn": "9780812988406",
+  "category": {
+    "$oid": "67a2e25ce1bbae53cef6f9bf"
+  },
+  "country": "USA",
+  "publicationYear": 2016,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a971846f147a6a8c03f6d4"
+  },
+  "title": "Mùa Hè Đỏ Lửa",
+  "description": "Tiểu thuyết về cuộc kháng chiến chống Pháp ở Việt Nam, mô tả cuộc đời của những chiến sĩ cách mạng trong chiến tranh đầy cam go.",
+  "author": "Nguyễn Thế Anh",
+  "isbn": "9786045841006",
+  "category": {
+    "$oid": "67a2e25ce1bbae53cef6f9bf"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1974,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a971846f147a6a8c03f6d5"
+  },
+  "title": "Biên Niên Sử Của Một Người Thợ Sửa Đồng Hồ",
+  "description": "Câu chuyện về một người thợ sửa đồng hồ sống trong thời kỳ của Thế chiến I và II, khám phá sự thay đổi của xã hội và tâm lý con người trong những sự kiện lịch sử quan trọng.",
+  "author": "Stefan Zweig",
+  "isbn": "9781940842160",
+  "category": {
+    "$oid": "67a2e25ce1bbae53cef6f9bf"
+  },
+  "country": "Austria",
+  "publicationYear": 1945,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a971846f147a6a8c03f6d6"
+  },
+  "title": "Vượt Biển",
+  "description": "Một tác phẩm lịch sử của Việt Nam, kể về cuộc sống của những người Việt Nam di cư qua các sự kiện lịch sử lớn như chiến tranh và cuộc sống trong một xã hội đổi mới.",
+  "author": "Thanh Tịnh",
+  "isbn": "9786046039739",
+  "category": {
+    "$oid": "67a2e25ce1bbae53cef6f9bf"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1995,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a971846f147a6a8c03f6d7"
+  },
+  "title": "Trận Đánh Cuối Cùng",
+  "description": "Câu chuyện về các chiến sĩ Mỹ trong cuộc chiến tranh Việt Nam, khắc họa những trải nghiệm tâm lý và tình cảm trong suốt cuộc chiến tranh, khám phá sự tàn khốc của chiến tranh.",
+  "author": "Tim O'Brien",
+  "isbn": "9780618706419",
+  "category": {
+    "$oid": "67a2e25ce1bbae53cef6f9bf"
+  },
+  "country": "USA",
+  "publicationYear": 1990,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a971846f147a6a8c03f6d8"
+  },
+  "title": "Đất Rừng Phương Nam",
+  "description": "Câu chuyện diễn ra trong bối cảnh thời kỳ thuộc địa và chiến tranh, phản ánh cuộc sống khốn khó của những người dân miền Nam trong những năm tháng đầy biến động.",
+  "author": "Đoàn Giỏi",
+  "isbn": "9786046804403",
+  "category": {
+    "$oid": "67a2e25ce1bbae53cef6f9bf"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1992,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9721e6f147a6a8c03f6d9"
+  },
+  "title": "Napoléon",
+  "description": "Câu chuyện xoay quanh cuộc đời của Napoleon Bonaparte, từ khi ông còn là một thiếu niên người Corsica cho đến khi trở thành hoàng đế của Pháp, với những chiến dịch quân sự và mối quan hệ tình cảm phức tạp.",
+  "author": "Empress Joséphine",
+  "isbn": "9780786707282",
+  "category": {
+    "$oid": "67a2e25fe1bbae53cef6f9c0"
+  },
+  "country": "France",
+  "publicationYear": 2001,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9721e6f147a6a8c03f6da"
+  },
+  "title": "Công Nương Diana",
+  "description": "Tiểu thuyết mô tả cuộc sống của Công nương Diana, từ những năm tháng đau khổ trong cuộc hôn nhân với Hoàng tử Charles đến các cuộc đấu tranh cá nhân của bà với cuộc sống hoàng gia.",
+  "author": "Andrew Morton",
+  "isbn": "9780452295269",
+  "category": {
+    "$oid": "67a2e25fe1bbae53cef6f9c0"
+  },
+  "country": "UK",
+  "publicationYear": 1992,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9721e6f147a6a8c03f6db"
+  },
+  "title": "Quyền Lực và Vinh Quang: Cuộc Đời của Julius Caesar",
+  "description": "Một tác phẩm lịch sử xoay quanh Julius Caesar, một trong những nhân vật vĩ đại nhất trong lịch sử La Mã, với những trận chiến nổi tiếng và sự thay đổi của đế chế La Mã.",
+  "author": "Philip Freeman",
+  "isbn": "9781416573134",
+  "category": {
+    "$oid": "67a2e25fe1bbae53cef6f9c0"
+  },
+  "country": "USA",
+  "publicationYear": 2008,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9721e6f147a6a8c03f6dc"
+  },
+  "title": "Vĩ Nhân Winston Churchill",
+  "description": "Câu chuyện về Winston Churchill, từ thời trẻ đến khi trở thành Thủ tướng Anh trong Thế chiến II, phản ánh những quyết định lịch sử và tính cách đặc biệt của ông trong thời kỳ khó khăn.",
+  "author": "William Manchester",
+  "isbn": "9780316541328",
+  "category": {
+    "$oid": "67a2e25fe1bbae53cef6f9c0"
+  },
+  "country": "UK",
+  "publicationYear": 1983,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9721e6f147a6a8c03f6dd"
+  },
+  "title": "Alexander Đại Đế",
+  "description": "Cuốn tiểu thuyết lịch sử này kể về cuộc đời của Alexander Đại Đế, từ khi còn là hoàng tử đến khi ông trở thành một trong những nhà chinh phục vĩ đại nhất trong lịch sử nhân loại.",
+  "author": "Mary Renault",
+  "isbn": "9780140114540",
+  "category": {
+    "$oid": "67a2e25fe1bbae53cef6f9c0"
+  },
+  "country": "UK",
+  "publicationYear": 1975,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9721e6f147a6a8c03f6de"
+  },
+  "title": "Thiên Tài Abraham Lincoln",
+  "description": "Một tác phẩm về Abraham Lincoln, Tổng thống thứ 16 của Hoa Kỳ, người đã dẫn dắt quốc gia qua cuộc Nội chiến và thúc đẩy việc bãi bỏ chế độ nô lệ.",
+  "author": "Gore Vidal",
+  "isbn": "9780375405822",
+  "category": {
+    "$oid": "67a2e25fe1bbae53cef6f9c0"
+  },
+  "country": "USA",
+  "publicationYear": 2008,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9721e6f147a6a8c03f6df"
+  },
+  "title": "Marie Antoinette",
+  "description": "Tiểu thuyết lịch sử kể về cuộc đời của Nữ hoàng Marie Antoinette, từ khi nàng còn là công chúa Áo đến khi trở thành nữ hoàng của Pháp, với những cuộc tranh cãi, thăng trầm trong triều đình và kết cục bi thảm của bà.",
+  "author": "Antonia Fraser",
+  "isbn": "9780385499840",
+  "category": {
+    "$oid": "67a2e25fe1bbae53cef6f9c0"
+  },
+  "country": "France",
+  "publicationYear": 2001,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9721e6f147a6a8c03f6e0"
+  },
+  "title": "Leonardo Da Vinci",
+  "description": "Cuốn tiểu thuyết này mô tả cuộc đời của Leonardo Da Vinci, một trong những thiên tài vĩ đại nhất trong lịch sử, với những khám phá nghệ thuật, khoa học và những bí mật trong cuộc đời của ông.",
+  "author": "Walter Isaacson",
+  "isbn": "9781501139154",
+  "category": {
+    "$oid": "67a2e25fe1bbae53cef6f9c0"
+  },
+  "country": "USA",
+  "publicationYear": 2017,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9721e6f147a6a8c03f6e1"
+  },
+  "title": "Viktor Frankl - Con Đường Ý Nghĩa Cuộc Sống",
+  "description": "Cuốn sách kể về cuộc đời của Viktor Frankl, nhà tâm lý học người Áo, người đã sống sót qua trại tập trung Auschwitz và phát triển lý thuyết 'Logotherapy' về ý nghĩa cuộc sống.",
+  "author": "Viktor Frankl",
+  "isbn": "9780807014295",
+  "category": {
+    "$oid": "67a2e25fe1bbae53cef6f9c0"
+  },
+  "country": "Austria",
+  "publicationYear": 2006,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9721e6f147a6a8c03f6e2"
+  },
+  "title": "Catherine the Great: Portrait of a Woman",
+  "description": "Tiểu thuyết kể về cuộc đời và sự nghiệp của Catherine Đại Đế, nữ hoàng vĩ đại của Nga, từ khi bà còn là một công chúa trẻ tuổi người Đức cho đến khi trở thành một trong những nữ hoàng quyền lực nhất trong lịch sử.",
+  "author": "Robert K. Massie",
+  "isbn": "9780345450381",
+  "category": {
+    "$oid": "67a2e25fe1bbae53cef6f9c0"
+  },
+  "country": "Russia",
+  "publicationYear": 2001,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9739d6f147a6a8c03f6ed"
+  },
+  "title": "Kiêu Hãnh và Định Kiến",
+  "description": "Câu chuyện về tình yêu giữa Elizabeth Bennet và Mr. Darcy, phản ánh những hiểu lầm, định kiến xã hội và sự trưởng thành trong mối quan hệ.",
+  "author": "Jane Austen",
+  "isbn": "9780141439518",
+  "category": {
+    "$oid": "67a2e26ae1bbae53cef6f9c1"
+  },
+  "country": "UK",
+  "publicationYear": 1813,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9739d6f147a6a8c03f6ee"
+  },
+  "title": "Một Ngày",
+  "description": "Câu chuyện về Emma và Dexter, từ khi họ gặp nhau vào ngày tốt nghiệp đại học cho đến 20 năm sau, khám phá những thay đổi trong tình yêu và cuộc sống của họ.",
+  "author": "David Nicholls",
+  "isbn": "9781408801761",
+  "category": {
+    "$oid": "67a2e26ae1bbae53cef6f9c1"
+  },
+  "country": "UK",
+  "publicationYear": 2009,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9739d6f147a6a8c03f6ef"
+  },
+  "title": "The Fault in Our Stars (Lỗi Của Những Ngôi Sao)",
+  "description": "Câu chuyện cảm động về tình yêu giữa Hazel Grace, một cô gái bị ung thư, và Augustus Waters, một cậu bé cũng mắc bệnh ung thư, trong hành trình sống và yêu dù biết rằng thời gian có hạn.",
+  "author": "John Green",
+  "isbn": "9780525478812",
+  "category": {
+    "$oid": "67a2e26ae1bbae53cef6f9c1"
+  },
+  "country": "USA",
+  "publicationYear": 2012,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9739d6f147a6a8c03f6f0"
+  },
+  "title": "Đoạn Đường Tình Yêu",
+  "description": "Một câu chuyện tình yêu lãng mạn về Noah và Allie, hai người yêu nhau khi còn trẻ nhưng bị chia cách bởi thời gian và hoàn cảnh, cho đến khi họ tái ngộ và yêu lại từ đầu.",
+  "author": "Nicholas Sparks",
+  "isbn": "9781455512208",
+  "category": {
+    "$oid": "67a2e26ae1bbae53cef6f9c1"
+  },
+  "country": "USA",
+  "publicationYear": 2002,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9739d6f147a6a8c03f6f1"
+  },
+  "title": "Vợ Chồng A Phủ",
+  "description": "Một câu chuyện về tình yêu và cuộc sống của A Phủ và Mỵ, hai nhân vật trong xã hội miền núi, khắc họa tình yêu thầm lặng giữa những thử thách và gian khó.",
+  "author": "Tô Hoài",
+  "isbn": "9786045023573",
+  "category": {
+    "$oid": "67a2e26ae1bbae53cef6f9c1"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1959,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9739d6f147a6a8c03f6f2"
+  },
+  "title": "Tình Yêu Và Thù Hận",
+  "description": "Câu chuyện tình yêu đầy bi kịch giữa Heathcliff và Catherine Earnshaw, hai người yêu nhau sâu đậm nhưng cũng chịu đựng đau khổ vì sự phân chia xã hội và gia đình.",
+  "author": "Emily Brontë",
+  "isbn": "9781853260017",
+  "category": {
+    "$oid": "67a2e26ae1bbae53cef6f9c1"
+  },
+  "country": "UK",
+  "publicationYear": 1847,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9739d6f147a6a8c03f6f3"
+  },
+  "title": "Chạng Vạng",
+  "description": "Câu chuyện tình yêu giữa Bella Swan, một cô gái bình thường, và Edward Cullen, một ma cà rồng, khám phá mối quan hệ giữa hai thế giới khác biệt và sự hy sinh vì tình yêu.",
+  "author": "Stephenie Meyer",
+  "isbn": "9780316160179",
+  "category": {
+    "$oid": "67a2e26ae1bbae53cef6f9c1"
+  },
+  "country": "USA",
+  "publicationYear": 2005,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9739d6f147a6a8c03f6f4"
+  },
+  "title": "Thư Gửi Em",
+  "description": "Một câu chuyện tình yêu giữa hai con người trẻ tuổi, với những cảm xúc phức tạp và những thử thách trong mối quan hệ, trong một thế giới hiện đại đầy rối ren.",
+  "author": "Han Han",
+  "isbn": "9787506322212",
+  "category": {
+    "$oid": "67a2e26ae1bbae53cef6f9c1"
+  },
+  "country": "China",
+  "publicationYear": 2010,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9739d6f147a6a8c03f6f5"
+  },
+  "title": "Mối Quan Hệ Bí Mật",
+  "description": "Câu chuyện về tình yêu không tưởng giữa Louisa Clark và Will Traynor, một người đàn ông giàu có nhưng bị tàn tật, mở ra những suy nghĩ về ý nghĩa cuộc sống và tình yêu qua những thử thách khó khăn.",
+  "author": "Jojo Moyes",
+  "isbn": "9780143124542",
+  "category": {
+    "$oid": "67a2e26ae1bbae53cef6f9c1"
+  },
+  "country": "UK",
+  "publicationYear": 2012,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a9739d6f147a6a8c03f6f6"
+  },
+  "title": "Cô Gái Đến Từ Hôm Qua",
+  "description": "Một câu chuyện tình yêu ngây thơ và trong sáng, kể về những cảm xúc đầu đời của một chàng trai nhỏ tuổi dành cho cô gái xinh đẹp, giữa những kỷ niệm và tình cảm sâu sắc.",
+  "author": "Nguyễn Nhật Ánh",
+  "isbn": "9786045755823",
+  "category": {
+    "$oid": "67a2e26ae1bbae53cef6f9c1"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2010,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf F10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974086f147a6a8c03f6f7"
+  },
+  "title": "Mắt Biếc",
+  "description": "Câu chuyện tình yêu ngọt ngào và đầy xúc động giữa Ngạn và Hà Lan, những người bạn thời thơ ấu trong một làng quê, thể hiện tình yêu đầu đời trong sáng và những kỷ niệm không thể quên.",
+  "author": "Nguyễn Nhật Ánh",
+  "isbn": "9786045770086",
+  "category": {
+    "$oid": "67a2e26ee1bbae53cef6f9c2"
+  },
+  "country": "Vietnam",
+  "publicationYear": 1998,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974086f147a6a8c03f6f8"
+  },
+  "title": "Từng Có Một Người Yêu Như Thế",
+  "description": "Câu chuyện kể về mối tình đầu giữa một cô gái và chàng trai học cùng lớp, khám phá những cảm xúc ngây ngô, những thử thách và bài học tình yêu trong thời gian học trò.",
+  "author": "Minh Hiếu",
+  "isbn": "9786049292907",
+  "category": {
+    "$oid": "67a2e26ee1bbae53cef6f9c2"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2015,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974086f147a6a8c03f6f9"
+  },
+  "title": "Những Ngày Tháng Cũ",
+  "description": "Một câu chuyện tình yêu học đường nhẹ nhàng, diễn ra trong môi trường học tập, nơi những mối quan hệ giữa bạn bè và tình yêu phát triển qua thời gian.",
+  "author": "J.K. Rowling",
+  "isbn": "9780747546478",
+  "category": {
+    "$oid": "67a2e26ee1bbae53cef6f9c2"
+  },
+  "country": "UK",
+  "publicationYear": 1997,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974086f147a6a8c03f6fa"
+  },
+  "title": "Khi Nào Tình Yêu Đến",
+  "description": "Câu chuyện tình yêu học đường giữa những người bạn thân, khám phá sự phát triển tình cảm từ tình bạn, sự chia tay và gặp lại sau nhiều năm.",
+  "author": "Nguyễn Ngọc Thạch",
+  "isbn": "9786043026545",
+  "category": {
+    "$oid": "67a2e26ee1bbae53cef6f9c2"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2012,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974086f147a6a8c03f6fb"
+  },
+  "title": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+  "description": "Một câu chuyện về mối tình học trò trong sáng và tinh khôi, giữa nhân vật chính là những đứa trẻ sống trong một làng quê, với những cảm xúc non nớt về tình yêu và cuộc sống.",
+  "author": "Nguyễn Nhật Ánh",
+  "isbn": "9786045788661",
+  "category": {
+    "$oid": "67a2e26ee1bbae53cef6f9c2"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2009,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974086f147a6a8c03f6fc"
+  },
+  "title": "Cô Gái Đến Từ Hôm Qua",
+  "description": "Mối tình đầu giữa nhân vật chính và cô bạn gái cùng lớp, với những tình huống hài hước, cảm động và những kỷ niệm không thể nào quên trong những năm tháng học trò.",
+  "author": "Nguyễn Nhật Ánh",
+  "isbn": "9786045755823",
+  "category": {
+    "$oid": "67a2e26ee1bbae53cef6f9c2"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2010,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974086f147a6a8c03f6fd"
+  },
+  "title": "Em Là Con Gái Của Mình",
+  "description": "Câu chuyện tình yêu nhẹ nhàng giữa hai người bạn học, với những thử thách trong mối quan hệ bạn bè và tình yêu khi bước vào giai đoạn trưởng thành.",
+  "author": "Lê Thị Thanh Nhàn",
+  "isbn": "9786045803640",
+  "category": {
+    "$oid": "67a2e26ee1bbae53cef6f9c2"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2017,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974086f147a6a8c03f6fe"
+  },
+  "title": "Bắt Lúa",
+  "description": "Câu chuyện tình yêu giữa một cô gái và chàng trai cùng lớp, với những tình huống dễ thương, lãng mạn và những cảm xúc học trò ngọt ngào.",
+  "author": "Hoàng Anh Tú",
+  "isbn": "9786049051866",
+  "category": {
+    "$oid": "67a2e26ee1bbae53cef6f9c2"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2013,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974086f147a6a8c03f6ff"
+  },
+  "title": "Lời Hứa Của Chàng Trai",
+  "description": "Câu chuyện về tình yêu học đường giữa hai nhân vật chính là những học sinh trung học, khi họ đối mặt với những thử thách của tuổi trẻ và mối quan hệ đầy cảm xúc.",
+  "author": "Thanh Xuân",
+  "isbn": "9786049825356",
+  "category": {
+    "$oid": "67a2e26ee1bbae53cef6f9c2"
+  },
+  "country": "Vietnam",
+  "publicationYear": 2018,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974086f147a6a8c03f700"
+  },
+  "title": "Yêu Em Từ Cái Nhìn Đầu Tiên",
+  "description": "Một câu chuyện tình yêu học đường đáng yêu, với những kỷ niệm đáng nhớ và những cảm xúc sâu sắc khi bước vào một mối quan hệ tình cảm trong thời gian học sinh.",
+  "author": "Giovanna Fletcher",
+  "isbn": "9781405920217",
+  "category": {
+    "$oid": "67a2e26ee1bbae53cef6f9c2"
+  },
+  "country": "UK",
+  "publicationYear": 2014,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf G10",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974376f147a6a8c03f701"
+  },
+  "title": "The Notebook",
+  "description": "Câu chuyện tình yêu đầy cảm động giữa Noah và Allie, hai người yêu nhau từ thuở thanh xuân nhưng phải chia xa. Sau nhiều năm, họ tái ngộ và tình yêu của họ lại tiếp tục nở hoa dù đối mặt với những khó khăn trong cuộc sống.",
+  "author": "Nicholas Sparks",
+  "isbn": "9781455510193",
+  "category": {
+    "$oid": "67a2e270e1bbae53cef6f9c3"
+  },
+  "country": "USA",
+  "publicationYear": 1996,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H1",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974376f147a6a8c03f702"
+  },
+  "title": "Pride and Prejudice",
+  "description": "Một trong những tác phẩm tình yêu lãng mạn vĩ đại, kể về Elizabeth Bennet và Mr. Darcy, những con người với những định kiến và tự ái phải vượt qua để tìm thấy tình yêu đích thực.",
+  "author": "Jane Austen",
+  "isbn": "9780141040349",
+  "category": {
+    "$oid": "67a2e270e1bbae53cef6f9c3"
+  },
+  "country": "UK",
+  "publicationYear": 1813,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H2",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974376f147a6a8c03f703"
+  },
+  "title": "Me Before You",
+  "description": "Câu chuyện về Louisa Clark và Will Traynor, một người đàn ông giàu có bị tàn tật, phản ánh tình yêu, sự hy sinh và những thay đổi trong cuộc sống, cũng như sự quan trọng của việc sống trọn vẹn mỗi ngày.",
+  "author": "Jojo Moyes",
+  "isbn": "9780143124542",
+  "category": {
+    "$oid": "67a2e270e1bbae53cef6f9c3"
+  },
+  "country": "UK",
+  "publicationYear": 2012,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H3",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974376f147a6a8c03f704"
+  },
+  "title": "Twilight",
+  "description": "Câu chuyện tình yêu giữa Bella Swan, một cô gái bình thường, và Edward Cullen, một ma cà rồng, đầy rẫy những thử thách và sự hy sinh giữa hai thế giới khác biệt.",
+  "author": "Stephenie Meyer",
+  "isbn": "9780316015844",
+  "category": {
+    "$oid": "67a2e270e1bbae53cef6f9c3"
+  },
+  "country": "USA",
+  "publicationYear": 2005,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H4",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974376f147a6a8c03f705"
+  },
+  "title": "The Fault in Our Stars",
+  "description": "Một câu chuyện tình yêu tuyệt đẹp nhưng cũng đầy bi thương giữa Hazel Grace, một cô gái mắc bệnh ung thư, và Augustus Waters, một cậu bé cũng mắc bệnh ung thư, khám phá tình yêu và cuộc sống qua đôi mắt của những người đang đối mặt với cái chết.",
+  "author": "John Green",
+  "isbn": "9780525478812",
+  "category": {
+    "$oid": "67a2e270e1bbae53cef6f9c3"
+  },
+  "country": "USA",
+  "publicationYear": 2012,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H5",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974376f147a6a8c03f706"
+  },
+  "title": "The Time Traveler’s Wife",
+  "description": "Câu chuyện tình yêu giữa Henry, một người đàn ông du hành thời gian, và Clare, vợ của anh. Câu chuyện khám phá tình yêu vượt qua thời gian và những thử thách mà nó mang lại.",
+  "author": "Audrey Niffenegger",
+  "isbn": "9780977126397",
+  "category": {
+    "$oid": "67a2e270e1bbae53cef6f9c3"
+  },
+  "country": "USA",
+  "publicationYear": 2003,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H6",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974376f147a6a8c03f707"
+  },
+  "title": "A Walk to Remember",
+  "description": "Một câu chuyện cảm động về Landon và Jamie, một cô gái có trái tim trong sáng và một chàng trai khô khan, nhưng tình yêu của họ đã thay đổi cuộc sống của họ mãi mãi.",
+  "author": "Nicholas Sparks",
+  "isbn": "9780446617660",
+  "category": {
+    "$oid": "67a2e270e1bbae53cef6f9c3"
+  },
+  "country": "USA",
+  "publicationYear": 1999,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H7",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974376f147a6a8c03f708"
+  },
+  "title": "The Rosie Project",
+  "description": "Câu chuyện hài hước và lãng mạn về Don Tillman, một giáo sư toán học với một phương pháp không thể ngờ tới để tìm kiếm tình yêu, và Rosie Jarman, một cô gái 'không phù hợp' nhưng lại khiến cuộc đời Don thay đổi.",
+  "author": "Graeme Simsion",
+  "isbn": "9781925266035",
+  "category": {
+    "$oid": "67a2e270e1bbae53cef6f9c3"
+  },
+  "country": "Australia",
+  "publicationYear": 2013,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H8",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974376f147a6a8c03f709"
+  },
+  "title": "Fifty Shades of Grey",
+  "description": "Một câu chuyện tình yêu đầy đam mê và phức tạp giữa Anastasia Steele và Christian Grey, khám phá những mối quan hệ và những yêu cầu tình cảm phức tạp trong cuộc sống của họ.",
+  "author": "E.L. James",
+  "isbn": "9780385537971",
+  "category": {
+    "$oid": "67a2e270e1bbae53cef6f9c3"
+  },
+  "country": "UK",
+  "publicationYear": 2011,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H9",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "67a974376f147a6a8c03f70a"
+  },
+  "title": "Love in the Time of Cholera",
+  "description": "Câu chuyện tình yêu giữa Florentino Ariza và Fermina Daza, bắt đầu từ thuở thanh xuân và tiếp tục trong suốt cuộc đời, thể hiện sự kiên trì và sự chờ đợi trong tình yêu.",
+  "author": "Gabriel García Márquez",
+  "isbn": "9780307389732",
+  "category": {
+    "$oid": "67a2e270e1bbae53cef6f9c3"
+  },
+  "country": "Colombia",
+  "publicationYear": 1985,
+  "copies": 5,
+  "available": 3,
+  "location": "Shelf H10",
+  "imageUrl": ""
+}]

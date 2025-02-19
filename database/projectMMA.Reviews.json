@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "67b60c82882b328823933ae4"
+  },
+  "bookId": {
+    "$oid": "67a2eeec5bf76d3b5f668db9"
+  },
+  "userId": {
+    "$oid": "67a2e42d5bf76d3b5f668d9a"
+  },
+  "rating": 5,
+  "comment": "Good!",
+  "reviewDate": {
+    "$date": "2024-02-18T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b60c82882b328823933ae5"
+  },
+  "bookId": {
+    "$oid": "67a2eeec5bf76d3b5f668dba"
+  },
+  "userId": {
+    "$oid": "67a2e42d5bf76d3b5f668d9a"
+  },
+  "rating": 4,
+  "comment": "Rất hay",
+  "reviewDate": {
+    "$date": "2024-01-25T11:20:00.000Z"
+  }
+}]

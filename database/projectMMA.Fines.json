@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "67b6140e882b328823933ae6"
+  },
+  "userId": {
+    "$oid": "65d3a1f1e6f1b77a8c100001"
+  },
+  "loanId": {
+    "$oid": "65d3a1f1e6f1b77a8c200001"
+  },
+  "amount": 50000,
+  "reason": "Late return of 'Clean Code'",
+  "status": "Unpaid",
+  "issuedDate": {
+    "$date": "2024-02-15T10:30:00.000Z"
+  },
+  "paidDate": null
+}]

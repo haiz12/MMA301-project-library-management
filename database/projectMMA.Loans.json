@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "67b60b5f882b328823933ae3"
+  },
+  "userId": {
+    "$oid": "67a2e42d5bf76d3b5f668d9a"
+  },
+  "bookId": {
+    "$oid": "67a2eeec5bf76d3b5f668db9"
+  },
+  "borrowDate": {
+    "$date": "2024-02-10T15:00:00.000Z"
+  },
+  "dueDate": {
+    "$date": "2024-03-10T15:00:00.000Z"
+  },
+  "returnDate": null,
+  "status": "Borrowed"
+}]

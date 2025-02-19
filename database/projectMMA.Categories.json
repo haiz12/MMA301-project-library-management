@@ -1,0 +1,195 @@
+[{
+  "_id": {
+    "$oid": "67a2e17f5bf76d3b5f668d91"
+  },
+  "category": "Tiểu thuyết văn học",
+  "subcategories": [
+    {
+      "id": {
+        "$oid": "67a2e18de1bbae53cef6f9af"
+      },
+      "name": "Tiểu thuyết cổ điển",
+      "description": "Các tác phẩm văn học từ thời kỳ cổ điển."
+    },
+    {
+      "id": {
+        "$oid": "67a2e193e1bbae53cef6f9b0"
+      },
+      "name": "Tiểu thuyết hiện đại",
+      "description": "Các tác phẩm văn học viết trong thế kỷ 20 và 21."
+    },
+    {
+      "id": {
+        "$oid": "67a2e19de1bbae53cef6f9b1"
+      },
+      "name": "Tiểu thuyết giả tưởng",
+      "description": "Các tác phẩm kể về những thế giới tưởng tượng và siêu nhiên."
+    },
+    {
+      "id": {
+        "$oid": "67a2e1a0e1bbae53cef6f9b2"
+      },
+      "name": "Tiểu thuyết lãng mạn",
+      "description": "Các câu chuyện tình yêu và những mối quan hệ lãng mạn."
+    },
+    {
+      "id": {
+        "$oid": "67a2e1a3e1bbae53cef6f9b3"
+      },
+      "name": "Tiểu thuyết kinh dị",
+      "description": "Các tác phẩm có yếu tố kinh dị, ám ảnh và rùng rợn."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a2e17f5bf76d3b5f668d92"
+  },
+  "category": "Truyện ngắn",
+  "subcategories": [
+    {
+      "id": {
+        "$oid": "67a2e1f1e1bbae53cef6f9b4"
+      },
+      "name": "Truyện ngắn Việt Nam",
+      "description": "Truyện ngắn của các tác giả Việt Nam."
+    },
+    {
+      "id": {
+        "$oid": "67a2e1f4e1bbae53cef6f9b5"
+      },
+      "name": "Truyện ngắn thế giới",
+      "description": "Truyện ngắn của các tác giả quốc tế."
+    },
+    {
+      "id": {
+        "$oid": "67a2e1f7e1bbae53cef6f9b6"
+      },
+      "name": "Truyện ngắn phiêu lưu",
+      "description": "Các câu chuyện phiêu lưu, khám phá thế giới mới."
+    },
+    {
+      "id": {
+        "$oid": "67a2e1f9e1bbae53cef6f9b7"
+      },
+      "name": "Truyện ngắn khoa học viễn tưởng",
+      "description": "Truyện ngắn với yếu tố khoa học và công nghệ tương lai."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a2e17f5bf76d3b5f668d93"
+  },
+  "category": "Truyện tranh",
+  "subcategories": [
+    {
+      "id": {
+        "$oid": "67a2e22de1bbae53cef6f9b8"
+      },
+      "name": "Manga (Nhật Bản)",
+      "description": "Truyện tranh mang phong cách Nhật Bản."
+    },
+    {
+      "id": {
+        "$oid": "67a2e22fe1bbae53cef6f9b9"
+      },
+      "name": "Manhwa (Hàn Quốc)",
+      "description": "Truyện tranh mang phong cách Hàn Quốc."
+    },
+    {
+      "id": {
+        "$oid": "67a2e233e1bbae53cef6f9ba"
+      },
+      "name": "Truyện tranh Mỹ",
+      "description": "Truyện tranh mang phong cách Mỹ."
+    },
+    {
+      "id": {
+        "$oid": "67a2e236e1bbae53cef6f9bb"
+      },
+      "name": "Truyện tranh Việt Nam",
+      "description": "Truyện tranh của các tác giả Việt Nam."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a2e17f5bf76d3b5f668d94"
+  },
+  "category": "Truyện thiếu nhi",
+  "subcategories": [
+    {
+      "id": {
+        "$oid": "67a2e24ee1bbae53cef6f9bc"
+      },
+      "name": "Truyện cổ tích",
+      "description": "Các câu chuyện cổ tích với yếu tố kỳ diệu và thần thoại."
+    },
+    {
+      "id": {
+        "$oid": "67a2e250e1bbae53cef6f9bd"
+      },
+      "name": "Truyện ngụ ngôn",
+      "description": "Các câu chuyện ngụ ngôn với bài học đạo đức."
+    },
+    {
+      "id": {
+        "$oid": "67a2e252e1bbae53cef6f9be"
+      },
+      "name": "Truyện phiêu lưu",
+      "description": "Các câu chuyện phiêu lưu cho trẻ em."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a2e17f5bf76d3b5f668d95"
+  },
+  "category": "Tiểu thuyết lịch sử",
+  "subcategories": [
+    {
+      "id": {
+        "$oid": "67a2e25ce1bbae53cef6f9bf"
+      },
+      "name": "Tiểu thuyết về các sự kiện lịch sử",
+      "description": "Các tác phẩm xoay quanh những sự kiện lịch sử quan trọng."
+    },
+    {
+      "id": {
+        "$oid": "67a2e25fe1bbae53cef6f9c0"
+      },
+      "name": "Tiểu thuyết về các nhân vật lịch sử",
+      "description": "Các tác phẩm kể về các nhân vật lịch sử nổi tiếng."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a2e17f5bf76d3b5f668d96"
+  },
+  "category": "Truyện tình cảm",
+  "subcategories": [
+    {
+      "id": {
+        "$oid": "67a2e26ae1bbae53cef6f9c1"
+      },
+      "name": "Truyện lãng mạn",
+      "description": "Các câu chuyện tình yêu lãng mạn."
+    },
+    {
+      "id": {
+        "$oid": "67a2e26ee1bbae53cef6f9c2"
+      },
+      "name": "Truyện tình yêu học đường",
+      "description": "Các câu chuyện tình yêu xảy ra trong môi trường học đường."
+    },
+    {
+      "id": {
+        "$oid": "67a2e270e1bbae53cef6f9c3"
+      },
+      "name": "Tiểu thuyết tình cảm lãng mạn",
+      "description": "Các tiểu thuyết về những mối quan hệ tình cảm lãng mạn."
+    }
+  ]
+}]
