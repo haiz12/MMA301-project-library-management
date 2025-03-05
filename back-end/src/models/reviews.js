@@ -1,24 +1,33 @@
-const mongoose = require("mongoose");
+const mongoose = require('mongoose');
 
 const ReviewSchema = new mongoose.Schema({
   bookId: {
     type: mongoose.Schema.Types.ObjectId,
-    ref: "Books",
-    required: true,
+    ref: 'Book',
+    required: true
   },
   userId: {
     type: mongoose.Schema.Types.ObjectId,
-    ref: "Users",
-    required: true,
+    ref: 'User',
+    required: true
   },
-  rating: { type: Number, required: true, min: 1, max: 5 },
-  comment: { type: String, default: "" },
-  reviewDate: { type: Date, required: true, default: Date.now },
-},
-{
-  collection: "Reviews",
+  rating: {
+    type: Number,
+    min: 1,
+    max: 5,
+    required: true
+  },
+  comment: {
+    type: String,
+    trim: true
+  },
+  reviewDate: {
+    type: Date,
+    default: Date.now
+  }
 });
 
-const Reviews = mongoose.model("Review", ReviewSchema);
+// Ngăn người dùng đánh giá một cuốn sách nhiều lần
+ReviewSchema.index({ bookId: 1, userId: 1 }, { unique: true });
 
-module.exports = Reviews;
+module.exports = mongoose.model('Review', ReviewSchema);

@@ -1,28 +1,73 @@
-const mongoose = require("mongoose");
+const mongoose = require('mongoose');
 
-const BookSchema = new mongoose.Schema(
-  {
-    title: { type: String, required: true },
-    description: { type: String },
-    author: { type: String, required: true },
-    isbn: { type: String, unique: true, required: true },
-    category: {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: "Categories",
-      required: true,
-    },
-    country: { type: String },
-    publicationYear: { type: Number },
-    copies: { type: Number, default: 1 },
-    available: { type: Number, default: 1 },
-    location: { type: String },
-    imageUrl: { type: String },
+const BookSchema = new mongoose.Schema({
+  title: {
+    type: String,
+    required: [true, 'Vui lòng nhập tên sách'],
+    trim: true
   },
-  {
-    collection: "Books",
+  description: {
+    type: String,
+    trim: true
+  },
+  author: {
+    type: String,
+    required: [true, 'Vui lòng nhập tên tác giả'],
+    trim: true
+  },
+  isbn: {
+    type: String,
+    required: [true, 'Vui lòng nhập mã ISBN'],
+    unique: true,
+    trim: true
+  },
+  category: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'Category',
+    required: true
+  },
+  country: {
+    type: String,
+    trim: true
+  },
+  publicationYear: {
+    type: Number,
+    required: true
+  },
+  copies: {
+    type: Number,
+    required: true,
+    default: 1
+  },
+  available: {
+    type: Number,
+    required: true,
+    default: 1
+  },
+  location: {
+    type: String,
+    trim: true
+  },
+  imageUrl: {
+    type: String,
+    trim: true
+  },
+  status: {
+    type: String,
+    enum: ['Mới', 'Đã mượn', 'Đã trả', 'Hỏng', 'Mất'],
+    default: 'Mới'
+  },
+  createdAt: {
+    type: Date,
+    default: Date.now
+  },
+  updatedAt: {
+    type: Date,
+    default: Date.now
   }
-);
+});
 
-const Books = mongoose.model("Book", BookSchema);
+// Tạo index cho tìm kiếm
+BookSchema.index({ title: 'text', author: 'text', description: 'text' });
 
-module.exports = Books;
+module.exports = mongoose.model('Book', BookSchema);

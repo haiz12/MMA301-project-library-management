@@ -1,28 +1,25 @@
-const mongoose = require("mongoose");
+const mongoose = require('mongoose');
 
-const subCategorySchema = new mongoose.Schema({
+const SubcategorySchema = new mongoose.Schema({
   name: {
     type: String,
     required: true,
+    trim: true
   },
   description: {
     type: String,
-  },
+    trim: true
+  }
 });
 
-const categorySchema = new mongoose.Schema(
-  {
-    category: {
-      type: String,
-      required: true,
-    },
-    subCategories: [subCategorySchema],
+const CategorySchema = new mongoose.Schema({
+  category: {
+    type: String,
+    required: [true, 'Vui lòng nhập tên danh mục'],
+    unique: true,
+    trim: true
   },
-  {
-    collection: "Categories",
-  }
-);
+  subcategories: [SubcategorySchema]
+});
 
-const Category = mongoose.model("Category", categorySchema);
-
-module.exports = Category;
+module.exports = mongoose.model('Category', CategorySchema);

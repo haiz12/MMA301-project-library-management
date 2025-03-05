@@ -1,34 +1,88 @@
-const mongoose = require("mongoose");
+const mongoose = require('mongoose');
+const bcrypt = require('bcryptjs');
+const jwt = require('jsonwebtoken');
 
-const BorrowedBookSchema = new mongoose.Schema({
-  bookId: {
-    type: mongoose.Schema.Types.ObjectId,
-    ref: "Books",
-    required: true,
+const UserSchema = new mongoose.Schema({
+  name: {
+    type: String,
+    required: [true, 'Vui lòng nhập họ tên'],
+    trim: true
   },
-  borrowDate: { type: Date, required: true },
-  dueDate: { type: Date, required: true },
-  returned: { type: Boolean, default: false },
+  email: {
+    type: String,
+    required: [true, 'Vui lòng nhập email'],
+    unique: true,
+    match: [
+      /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/,
+      'Vui lòng nhập email hợp lệ'
+    ]
+  },
+  password: {
+    type: String,
+    required: [true, 'Vui lòng nhập mật khẩu'],
+    minlength: 6,
+    select: false
+  },
+  studentId: {
+    type: String,
+    trim: true
+  },
+  role: {
+    type: String,
+    enum: ['admin', 'librarian', 'student', 'teacher'],
+    default: 'student'
+  },
+  phone: {
+    type: String,
+    trim: true
+  },
+  borrowedBooks: [
+    {
+      bookId: {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'Book'
+      },
+      borrowDate: {
+        type: Date,
+        default: Date.now
+      },
+      dueDate: {
+        type: Date,
+        required: true
+      },
+      returned: {
+        type: Boolean,
+        default: false
+      }
+    }
+  ],
+  resetPasswordToken: String,
+  resetPasswordExpire: Date,
+  createdAt: {
+    type: Date,
+    default: Date.now
+  }
 });
 
-const UserSchema = new mongoose.Schema(
-  {
-    name: { type: String, required: true },
-    email: { type: String, unique: true, required: true },
-    studentId: { type: String, unique: true, required: true },
-    role: {
-      type: String,
-      enum: ["student", "admin", "teacher", "librarian"],
-      required: true,
-    },
-    phone: { type: String },
-    borrowedBooks: [BorrowedBookSchema],
-  },
-  {
-    collection: "Users",
+// Mã hóa mật khẩu trước khi lưu
+UserSchema.pre('save', async function(next) {
+  if (!this.isModified('password')) {
+    next();
   }
-);
+  const salt = await bcrypt.genSalt(10);
+  this.password = await bcrypt.hash(this.password, salt);
+});
 
-const Users = mongoose.model("User", UserSchema);
+// Phương thức ký JWT
+UserSchema.methods.getSignedJwtToken = function() {
+  return jwt.sign({ id: this._id }, process.env.JWT_SECRET, {
+    expiresIn: process.env.JWT_EXPIRE
+  });
+};
 
-module.exports = Users;
+// Phương thức so sánh mật khẩu
+UserSchema.methods.matchPassword = async function(enteredPassword) {
+  return await bcrypt.compare(enteredPassword, this.password);
+};
+
+module.exports = mongoose.model('User', UserSchema);

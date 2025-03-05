@@ -1,27 +1,37 @@
-const mongoose = require("mongoose");
+const mongoose = require('mongoose');
 
 const FineSchema = new mongoose.Schema({
   userId: {
     type: mongoose.Schema.Types.ObjectId,
-    ref: "Users",
-    required: true,
+    ref: 'User',
+    required: true
   },
   loanId: {
     type: mongoose.Schema.Types.ObjectId,
-    ref: "Loans",
-    required: true,
+    ref: 'Loan',
+    required: true
   },
-  amount: { type: Number, required: true },
-  reason: { type: String, required: true },
-  status: { type: String, enum: ["Unpaid", "Paid"], default: "Unpaid" },
-  issuedDate: { type: Date, required: true, default: Date.now },
-  paidDate: { type: Date, default: null },
-},
-{
-  collection: "Fines",
+  amount: {
+    type: Number,
+    required: true
+  },
+  reason: {
+    type: String,
+    required: true
+  },
+  status: {
+    type: String,
+    enum: ['Paid', 'Unpaid', 'Waived'],
+    default: 'Unpaid'
+  },
+  issuedDate: {
+    type: Date,
+    default: Date.now
+  },
+  paidDate: {
+    type: Date,
+    default: null
+  }
 });
 
-const Fines = mongoose.model("Fine", FineSchema);
-
-module.exports = Fines;
-
+module.exports = mongoose.model('Fine', FineSchema);
